@@ -1,0 +1,275 @@
+Acacia Leaves
+Acacia Log
+Acacia Sapling
+Amethyst Cluster
+Amethyst Shard
+Andesite
+Apple
+Armadillo Scute
+Armor Stand
+Arrow
+Azalea Leaves
+Baked Potato
+Basalt
+Bee Nest
+Birch Leaves
+Birch Log
+Birch Sapling
+Black Concrete
+Blackstone
+Blaze Rod
+Block of Bamboo
+Block of Coal
+Block of Diamond
+Block of Gold
+Block of Iron
+Block of Quartz
+Block of Raw Iron
+Block of Redstone
+Blue Concrete
+Blue Ice
+Bone
+Bone Block
+Bone Meal
+Book
+Bookshelf
+Brain Coral
+Brain Coral Fan
+Breeze Rod
+Bricks
+Brown Mushroom
+Brown Mushroom Block
+Bubble Coral
+Bubble Coral Block
+Bubble Coral Fan
+Bucket
+Bundle
+Cactus
+Calcite
+Campfire
+Carrot
+Cave Spider Spawner
+Cherry Leaves
+Cherry Log
+Cherry Sapling
+Clay
+Coal
+Coal Ore
+Coarse Dirt
+Cobbled Deepslate
+Cobblestone
+Cobweb
+Cocoa Beans
+Composter
+Copper Ingot
+Copper Ore
+Cracked Polished Blackstone Bricks
+Crimson Fungus
+Crimson Nylium
+Crimson Stem
+Cyan Concrete
+Dark Oak Leaves
+Dark Oak Log
+Dark Oak Sapling
+Dark Prismarine
+Deepslate
+Deepslate Copper Ore
+Deepslate Diamond Ore
+Deepslate Gold Ore
+Deepslate Iron Ore
+Deepslate Lapis Lazuli Ore
+Deepslate Redstone Ore
+Diamond
+Diamond Ore
+Diorite
+Dirt
+Dispenser
+Dripstone Block
+Egg
+Emerald
+End Crystal
+End Rod
+End Stone
+Ender Pearl
+Feather
+Fermented Spider Eye
+Fire Coral
+Fire Coral Fan
+Firework Rocket
+Gilded Blackstone
+Glass
+Glow Berries
+Glow Ink Sac
+Glow Lichen
+Glowstone
+Glowstone Dust
+Gold Ingot
+Granite
+Grass Block
+Gravel
+Gray Concrete
+Green Concrete
+Gunpowder
+Honey Block
+Hopper
+Horn Coral
+Horn Coral Block
+Horn Coral Fan
+Ink Sac
+Iron Ingot
+Iron Nugget
+Iron Ore
+Iron Trapdoor
+Item Frame
+Jungle Leaves
+Jungle Log
+Jungle Sapling
+Lantern
+Lapis Lazuli
+Lapis Lazuli Ore
+Lead
+Leather
+Lever
+Light Blue Concrete
+Light Gray Concrete
+Lime Concrete
+Lime Concrete Powder
+Magenta Concrete
+Magma Block
+Magma Cream
+Mangrove Leaves
+Mangrove Log
+Mangrove Propagule
+Mangrove Roots
+Melon
+Melon Seeds
+Moss Block
+Mossy Cobblestone
+Mossy Stone Bricks
+Mud
+Mushroom Stem
+Music Disc
+Mycelium
+Name Tag
+Nether Bricks
+Nether Quartz
+Nether Wart
+Nether Wart Block
+Netherrack
+Oak Leaves
+Oak Log
+Oak Sapling
+Observer
+Obsidian
+Ochre Froglight
+Orange Concrete
+Orange Concrete Powder
+Orange Shulker Box
+Packed Ice
+Pale Oak Leaves
+Pale Oak Log
+Pale Oak Sapling
+Paper
+Pearlescent Froglight
+Phantom Membrane
+Pink Concrete
+Podzol
+Pointed Dripstone
+Polished Blackstone Bricks
+Potato
+Powered Rail
+Prismarine
+Prismarine Bricks
+Pumpkin
+Pumpkin Seeds
+Purple Concrete
+Rabbit Hide
+Rail
+Raw Beef
+Raw Chicken
+Raw Cod
+Raw Copper
+Raw Gold
+Raw Iron
+Raw Porkchop
+Raw Rabbit
+Red Concrete Powder
+Red Mushroom
+Red Mushroom Block
+Red Sand
+Red Sandstone
+Red Terracotta
+Redstone Dust
+Redstone Ore
+Redstone Torch
+Rooted Dirt
+Rotten Flesh
+Saddle
+Sand
+Sandstone
+Scaffolding
+Sculk
+Sculk Vein
+Sea Lantern
+Sea Pickle
+Shroomlight
+Shulker Box
+Skeleton Spawner
+Slime Block
+Slimeball
+Smooth Sandstone
+Smooth Stone
+Sniffer Egg
+Soul Lantern
+Soul Sand
+Soul Soil
+Spectral Arrow
+Spider Eye
+Spider Spawner
+Splash Potion
+Spruce Leaves
+Spruce Log
+Spruce Sapling
+Steak
+Stick
+Stone
+Stonecutter
+String
+Sugar Cane
+Sunny Axe
+Sunny Boots
+Sunny Chestplate
+Sunny Helmet
+Sunny Hoe
+Sunny Leggings
+Sunny Shovel
+Sunny Spear
+Sunny Sword
+Sweet Berries
+Target
+Terracotta
+Tinted Glass
+Trident
+Tube Coral
+Tube Coral Block
+Tube Coral Fan
+Tuff
+Tuff Bricks
+Verdant Froglight
+Vines
+Warped Fungus
+Warped Nylium
+Warped Stem
+Warped Wart Block
+Waxed Copper Bulb
+Waxed Oxidized Copper Bulb
+Weeping Vines
+Wheat Seeds
+White Concrete
+White Concrete Powder
+White Stained Glass
+White Wool
+Wind Charge
+Yellow Concrete
+Yellow Concrete Powder
+Zombie Spawner

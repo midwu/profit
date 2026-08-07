@@ -5,19 +5,31 @@ from pathlib import Path
 INPUT_FILE = "shop_data.csv"
 OUTPUT_CSV = "profitable_trades.csv"
 OUTPUT_TXT = "profitable_trades_readable.txt"
-IGNORE_FILE = "ignore_items.txt"
+OUTPUT_CANNOT_FLIP = "items_cannot_flip.txt"
+OUTPUT_CAN_FLIP = "items_can_flip.txt"
+
+IGNORE_ITEMS_FILE = "ignore_items.txt"
+IGNORE_OWNERS_FILE = "ignore_owners.txt"
+IGNORE_WARPS_FILE = "ignore_warps.txt"
+
 MIN_PROFIT_PER_ITEM = 0.01
 ONLY_ACTIVE = True
 # ============================
 
-# --- Load ignore list ---
-ignore_items = set()
-if Path(IGNORE_FILE).exists():
-    with open(IGNORE_FILE, "r", encoding="utf-8") as f:
-        ignore_items = {line.strip() for line in f if line.strip()}
-    print(f"Ignoring {len(ignore_items)} items: {sorted(ignore_items)}")
-else:
-    print(f"No {IGNORE_FILE} found → no items ignored")
+def load_ignore_list(filepath: str) -> set:
+    if Path(filepath).exists():
+        with open(filepath, "r", encoding="utf-8") as f:
+            items = {line.strip() for line in f if line.strip()}
+        print(f"Loaded {len(items)} entries from {filepath}")
+        return items
+    else:
+        print(f"No {filepath} found → nothing ignored from this list")
+        return set()
+
+# --- Load all ignore lists ---
+ignore_items = load_ignore_list(IGNORE_ITEMS_FILE)
+ignore_owners = load_ignore_list(IGNORE_OWNERS_FILE)
+ignore_warps = load_ignore_list(IGNORE_WARPS_FILE)
 
 # --- Load data ---
 df = pd.read_csv(INPUT_FILE)
@@ -26,8 +38,15 @@ df.columns = df.columns.str.strip()
 if ONLY_ACTIVE:
     df = df[df["Status"] == "Active"].copy()
 
+# Apply all filters
 if ignore_items:
     df = df[~df["Item"].isin(ignore_items)]
+if ignore_owners:
+    df = df[~df["Shop Owner"].isin(ignore_owners)]
+if ignore_warps:
+    df = df[~df["Warp"].isin(ignore_warps)]
+
+print(f"Rows remaining after filters: {len(df):,}")
 
 # Split
 sellers = df[df["Action"] == "SELLING"].copy()
@@ -54,11 +73,10 @@ buyers = buyers.rename(columns={
 sellers = sellers[["Item", "Seller", "Sell_Price", "Seller_Stock", "Seller_Warp", "Seller_Location", "Seller_Timestamp"]]
 buyers  = buyers[["Item", "Buyer", "Buy_Price", "Buyer_Stock", "Buyer_Warp", "Buyer_Location", "Buyer_Timestamp"]]
 
-# Join
+# Join + calculate
 merged = sellers.merge(buyers, on="Item", how="inner")
 merged = merged[merged["Buy_Price"] > merged["Sell_Price"]].copy()
 
-# Calculate
 merged["Quantity"] = merged[["Seller_Stock", "Buyer_Stock"]].min(axis=1).astype(int)
 merged["Profit_Per_Item"] = merged["Buy_Price"] - merged["Sell_Price"]
 merged["Total_Profit"] = merged["Profit_Per_Item"] * merged["Quantity"]
@@ -68,7 +86,23 @@ merged["Sell_Total"] = merged["Buy_Price"] * merged["Quantity"]
 merged = merged[merged["Profit_Per_Item"] >= MIN_PROFIT_PER_ITEM]
 merged = merged.sort_values("Total_Profit", ascending=False).reset_index(drop=True)
 
-# Save clean CSV
+# ---------- Items that can / cannot be flipped for profit ----------
+all_items = set(df["Item"].unique())
+profitable_items = set(merged["Item"].unique())
+
+can_flip_items = sorted(profitable_items)
+cannot_flip_items = sorted(all_items - profitable_items)
+
+with open(OUTPUT_CAN_FLIP, "w", encoding="utf-8") as f:
+    f.write("\n".join(can_flip_items))
+
+with open(OUTPUT_CANNOT_FLIP, "w", encoding="utf-8") as f:
+    f.write("\n".join(cannot_flip_items))
+
+print(f"Items that can be flipped for profit:   {len(can_flip_items)}  → {OUTPUT_CAN_FLIP}")
+print(f"Items that cannot be flipped for profit: {len(cannot_flip_items)} → {OUTPUT_CANNOT_FLIP}")
+
+# ---------- Save files ----------
 csv_cols = [
     "Item", "Quantity", "Sell_Price", "Buy_Price", "Profit_Per_Item", "Total_Profit",
     "Seller", "Seller_Warp", "Seller_Stock",
@@ -78,7 +112,6 @@ csv_cols = [
 ]
 merged[csv_cols].to_csv(OUTPUT_CSV, index=False)
 
-# --- Human readable report ---
 lines = []
 lines.append(f"Profitable Trade Opportunities")
 lines.append(f"Generated from: {INPUT_FILE}")
@@ -100,8 +133,30 @@ for i, row in merged.iterrows():
 with open(OUTPUT_TXT, "w", encoding="utf-8") as f:
     f.write("\n".join(lines))
 
-print(f"Found {len(merged)} profitable opportunities")
-print(f"CSV saved to:  {OUTPUT_CSV}")
-print(f"Readable saved to: {OUTPUT_TXT}")
-print("\nTop 5 opportunities (preview):")
-print(merged.head(5)[["Item", "Quantity", "Sell_Price", "Buy_Price", "Total_Profit", "Seller_Warp", "Buyer_Warp"]].to_string())
+# ========== SUMMARY STATISTICS ==========
+total_opportunities = len(merged)
+total_money = merged["Total_Profit"].sum()
+avg_profit = merged["Total_Profit"].mean() if total_opportunities > 0 else 0
+max_profit = merged["Total_Profit"].max() if total_opportunities > 0 else 0
+
+print("\n" + "=" * 60)
+print("SUMMARY")
+print("=" * 60)
+print(f"Total profitable opportunities : {total_opportunities:,}")
+print(f"Total money that can be made   : ${total_money:,.2f}")
+print(f"Average profit per opportunity : ${avg_profit:,.2f}")
+print(f"Highest single opportunity     : ${max_profit:,.2f}")
+print()
+
+for n in [10, 100, 1000, 10000]:
+    if total_opportunities == 0:
+        break
+    top_n_sum = merged["Total_Profit"].head(n).sum()
+    print(f"Top {n:>5,} opportunities together : ${top_n_sum:,.2f}")
+
+print("=" * 60)
+print(f"\nFiles saved:")
+print(f"  {OUTPUT_CSV}")
+print(f"  {OUTPUT_TXT}")
+print(f"  {OUTPUT_CAN_FLIP}")
+print(f"  {OUTPUT_CANNOT_FLIP}")
