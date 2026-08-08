@@ -1,0 +1,63 @@
+Top 30 Trades (of 1034 total opportunities)
+================================================================================
+
+1. 'Dark Prismarine' x3456: buy @ $10.00 from 'NoWaterJustIce' (/warp prismarine+) → sell @ $20.00 to 'Mysticals_' (/warp rismarine)
+    Capital required: $34560.00  |  Total profit: $34560.00
+2. 'Deepslate Diamond Ore' x101: buy @ $300.00 from 'celticpiping' (/warp celt) → sell @ $500.00 to 'SerSicerio' (/warp serstore)
+    Capital required: $30300.00  |  Total profit: $20200.00
+3. 'Dark Prismarine' x1303: buy @ $5.00 from 'DaftWeevil2996' (/warp ocean city shop) → sell @ $20.00 to 'Mysticals_' (/warp panda)
+    Capital required: $6515.00  |  Total profit: $19545.00
+4. 'Honey Block' x585: buy @ $12.00 from 'Dwarffles' (/warp lidl) → sell @ $40.00 to 'Dani3537' (/warp daniwarp)
+    Capital required: $7020.00  |  Total profit: $16380.00
+5. 'Cherry Sapling' x2269: buy @ $0.50 from 'MissLion1997' (/warp treefarm) → sell @ $7.50 to 'Killablob' (/warp killashop)
+    Capital required: $1134.50  |  Total profit: $15883.00
+6. 'Bookshelf' x1566: buy @ $15.00 from 'midwu' (/warp panda) → sell @ $25.00 to 'Crazy69' (/warp crazysshop)
+    Capital required: $23490.00  |  Total profit: $15660.00
+7. 'Sea Lantern' x3456: buy @ $5.00 from 'NoWaterJustIce' (/warp prismarine+) → sell @ $9.00 to 'Mysticals_' (/warp panda)
+    Capital required: $17280.00  |  Total profit: $13824.00
+8. 'Sniffer Egg' x45: buy @ $750.00 from 'HoboNova' (/warp shopbo) → sell @ $1000.00 to 'MaddysinLeigh' (/warp maddy's mega mall)
+    Capital required: $33750.00  |  Total profit: $11250.00
+9. 'Acacia Sapling' x1524: buy @ $0.50 from 'MissLion1997' (/warp treefarm) → sell @ $7.50 to 'Killablob' (/warp killashop)
+    Capital required: $762.00  |  Total profit: $10668.00
+10. 'Shulker Box' x4: buy @ $22500.00 from 'Hobosapian' (/warp shopbo) → sell @ $25000.00 to 'dak5h' (/warp dak)
+    Capital required: $90000.00  |  Total profit: $10000.00
+11. 'Orange Shulker Box' x10: buy @ $24000.00 from 'NeonHairGirll' (/warp shulkerss) → sell @ $25000.00 to 'dak5h' (/warp dak)
+    Capital required: $240000.00  |  Total profit: $10000.00
+12. 'Zombie Spawner' x5: buy @ $8000.00 from 'Hobosapian' (/warp shopbo) → sell @ $10000.00 to 'Dani3537' (/warp daniwarp)
+    Capital required: $40000.00  |  Total profit: $10000.00
+13. 'Music Disc' x26: buy @ $120.00 from 'mmaikku' (/warp obsidian shop) → sell @ $500.00 to 'Ser_Sicerio' (/warp serstore)
+    Capital required: $3120.00  |  Total profit: $9880.00
+14. 'End Crystal' x23: buy @ $90.00 from 'kiwi_241' (/warp v.i.p room) → sell @ $500.00 to 'SerSicerio' (/warp serstore)
+    Capital required: $2070.00  |  Total profit: $9430.00
+15. 'Magma Block' x1243: buy @ $2.50 from 'ZestyRoyalty' (/warp nethersunny) → sell @ $10.00 to 'Dani3537' (/warp daniwarp)
+    Capital required: $3107.50  |  Total profit: $9322.50
+16. 'Shroomlight' x617: buy @ $10.00 from 'MatsmitGlatz' (/warp blockmart) → sell @ $25.00 to 'SerSicerio' (/warp serstore)
+    Capital required: $6170.00  |  Total profit: $9255.00
+17. 'Gravel' x3068: buy @ $1.00 from 'Hobosapian' (/warp shopbo) → sell @ $4.00 to 'Allyri' (/warp ri)
+    Capital required: $3068.00  |  Total profit: $9204.00
+18. 'Coal Ore' x1781: buy @ $5.00 from 'czsunny12' (/warp czshop) → sell @ $10.00 to 'Effortles' (/warp sale)
+    Capital required: $8905.00  |  Total profit: $8905.00
+19. 'Crimson Fungus' x1233: buy @ $0.50 from 'MissLion1997' (/warp treefarm) → sell @ $7.50 to 'Killablob' (/warp killashop)
+    Capital required: $616.50  |  Total profit: $8631.00
+20. 'Soul Lantern' x2875: buy @ $5.00 from 'FX_02' (/warp 1) → sell @ $8.00 to 'Effortles' (/warp sale)
+    Capital required: $14375.00  |  Total profit: $8625.00
+21. 'Cobbled Deepslate' x2797: buy @ $1.00 from 'celticpiping' (/warp celt) → sell @ $4.00 to 'Store' (/warp cob)
+    Capital required: $2797.00  |  Total profit: $8391.00
+22. 'Glowstone Dust' x916: buy @ $1.00 from 'oliviakat123' (/warp potions3) → sell @ $10.00 to 'Dani3537' (/warp daniwarp)
+    Capital required: $916.00  |  Total profit: $8244.00
+23. 'Oak Sapling' x1148: buy @ $0.50 from 'MissLion1997' (/warp treefarm) → sell @ $7.50 to 'Killablob' (/warp killashop)
+    Capital required: $574.00  |  Total profit: $8036.00
+24. 'Spruce Sapling' x1133: buy @ $0.50 from 'MissLion1997' (/warp treefarm) → sell @ $7.50 to 'Killablob' (/warp killashop)
+    Capital required: $566.50  |  Total profit: $7931.00
+25. 'Warped Fungus' x1076: buy @ $0.50 from 'MissLion1997' (/warp treefarm) → sell @ $7.50 to 'Killablob' (/warp killashop)
+    Capital required: $538.00  |  Total profit: $7532.00
+26. 'Cobbled Deepslate' x2923: buy @ $1.50 from 'MatsmitGlatz' (/warp blockmart) → sell @ $4.00 to 'Store' (/warp cob)
+    Capital required: $4384.50  |  Total profit: $7307.50
+27. 'Book' x991: buy @ $3.00 from 'Dwarffles' (/warp lidl) → sell @ $10.00 to 'Effortles' (/warp sale)
+    Capital required: $2973.00  |  Total profit: $6937.00
+28. 'Book' x991: buy @ $3.00 from 'Dwarffles' (/warp lidl) → sell @ $10.00 to 'Effortles' (/warp sale)
+    Capital required: $2973.00  |  Total profit: $6937.00
+29. 'Iron Ingot' x1728: buy @ $1.00 from 'Chijoku' (/warp chi) → sell @ $5.00 to '_RyanMC' (/warp villager trading hall)
+    Capital required: $1728.00  |  Total profit: $6912.00
+30. 'Acacia Log' x1728: buy @ $4.00 from 'Hobosapian' (/warp shopbo) → sell @ $8.00 to 'Effortles' (/warp sale)
+    Capital required: $6912.00  |  Total profit: $6912.00
