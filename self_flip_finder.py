@@ -59,7 +59,7 @@ def main():
     lines = [
         "Self-Flip / Shop Owner Mistake Opportunities",
         "Same player is both buyer and seller, with buy price > sell price.",
-        "Exploitable indefinitely regardless of listed stock — grind/farm the item yourself.",
+        "Exploitable indefinitely regardless of listed stock — grind/farm the item Yourself.",
         "=" * 80, "",
     ]
     for i, row in merged.iterrows():
