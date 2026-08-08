@@ -12,9 +12,10 @@ actually produce depends on your own grind rate, not on shop_data.csv.
 
 import argparse
 
-from data_loader import load_shop_data
+from data_loader import load_shop_data, load_ignore_list
 
 DEFAULT_INPUT_FILE = "shop_data.csv"
+IGNORE_SELF_FLIP_ITEMS_FILE = "ignore_self_flip_items.txt"
 OUTPUT_CSV = "self_flip_opportunities.csv"
 OUTPUT_TXT = "self_flip_opportunities.txt"
 
@@ -24,6 +25,10 @@ def parse_args():
     p.add_argument("--input", default=DEFAULT_INPUT_FILE, help="Path to shop_data.csv (default: %(default)s)")
     p.add_argument("--include-inactive", action="store_true",
                     help="Include shops not marked Active (default: active-only)")
+    p.add_argument("--ignore-items", default=IGNORE_SELF_FLIP_ITEMS_FILE,
+                    help="Path to a self-flip-only ignore list — separate from the main "
+                         "ignore_items.txt, so an item can be hidden here without affecting "
+                         "profit_finder.py (default: %(default)s)")
     return p.parse_args()
 
 
@@ -33,6 +38,10 @@ def main():
 
     if not args.include_inactive:
         df = df[df["Status"] == "Active"].copy()
+
+    ignore_items = load_ignore_list(args.ignore_items)
+    if ignore_items:
+        df = df[~df["Item"].isin(ignore_items)]
 
     sellers = df[df["Action"] == "SELLING"].copy().rename(columns={
         "Shop Owner": "Seller", "Price": "Sell_Price",
@@ -59,7 +68,7 @@ def main():
     lines = [
         "Self-Flip / Shop Owner Mistake Opportunities",
         "Same player is both buyer and seller, with buy price > sell price.",
-        "Exploitable indefinitely regardless of listed stock — grind/farm the item Yourself.",
+        "Exploitable indefinitely regardless of listed stock — grind/farm the item yourself.",
         "=" * 80, "",
     ]
     for i, row in merged.iterrows():

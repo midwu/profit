@@ -3,239 +3,239 @@ Same player is both buyer and seller, with buy price > sell price.
 Exploitable indefinitely regardless of listed stock — grind/farm the item yourself.
 ================================================================================
 
-1. 'Written Book' — Dwarffles (/warp treefarm)
-   Buys at $1150000.00 each, sells at $100.00 each
-   → Margin: $1149900.00 per item
-
---------------------------------------------------------------------------------
-2. 'Written Book' — Dwarffles (/warp treefarm)
-   Buys at $950000.00 each, sells at $100.00 each
-   → Margin: $949900.00 per item
-
---------------------------------------------------------------------------------
-3. 'Written Book' — Dwarffles (/warp treefarm)
-   Buys at $750000.00 each, sells at $100.00 each
-   → Margin: $749900.00 per item
-
---------------------------------------------------------------------------------
-4. 'Written Book' — Dwarffles (/warp treefarm)
-   Buys at $600000.00 each, sells at $100.00 each
-   → Margin: $599900.00 per item
-
---------------------------------------------------------------------------------
-5. 'Written Book' — Dwarffles (/warp treefarm)
-   Buys at $500000.00 each, sells at $100.00 each
-   → Margin: $499900.00 per item
-
---------------------------------------------------------------------------------
-6. 'Written Book' — Dwarffles (/warp treefarm)
-   Buys at $450000.00 each, sells at $100.00 each
-   → Margin: $449900.00 per item
-
---------------------------------------------------------------------------------
-7. 'Written Book' — Dwarffles (/warp treefarm)
-   Buys at $350000.00 each, sells at $100.00 each
-   → Margin: $349900.00 per item
-
---------------------------------------------------------------------------------
-8. 'Written Book' — Dwarffles (/warp treefarm)
-   Buys at $200000.00 each, sells at $100.00 each
-   → Margin: $199900.00 per item
-
---------------------------------------------------------------------------------
-9. 'Written Book' — Dwarffles (/warp treefarm)
-   Buys at $150000.00 each, sells at $100.00 each
-   → Margin: $149900.00 per item
-
---------------------------------------------------------------------------------
-10. 'Written Book' — Dwarffles (/warp treefarm)
-   Buys at $100000.00 each, sells at $100.00 each
-   → Margin: $99900.00 per item
-
---------------------------------------------------------------------------------
-11. 'Written Book' — Dwarffles (/warp treefarm)
-   Buys at $50000.00 each, sells at $100.00 each
-   → Margin: $49900.00 per item
-
---------------------------------------------------------------------------------
-12. 'Written Book' — Dwarffles (/warp treefarm)
-   Buys at $30000.00 each, sells at $100.00 each
-   → Margin: $29900.00 per item
-
---------------------------------------------------------------------------------
-13. 'Written Book' — Dwarffles (/warp treefarm)
-   Buys at $20000.00 each, sells at $100.00 each
-   → Margin: $19900.00 per item
-
---------------------------------------------------------------------------------
-14. 'Written Book' — Dwarffles (/warp treefarm)
-   Buys at $10000.00 each, sells at $100.00 each
-   → Margin: $9900.00 per item
-
---------------------------------------------------------------------------------
-15. 'Written Book' — Dwarffles (/warp treefarm)
-   Buys at $5000.00 each, sells at $100.00 each
-   → Margin: $4900.00 per item
-
---------------------------------------------------------------------------------
-16. 'Written Book' — Dwarffles (/warp treefarm)
-   Buys at $2000.00 each, sells at $100.00 each
-   → Margin: $1900.00 per item
-
---------------------------------------------------------------------------------
-17. 'Music Disc' — Ser_Sicerio (/warp serstore)
-   Buys at $500.00 each, sells at $100.00 each
-   → Margin: $400.00 per item
-
---------------------------------------------------------------------------------
-18. 'Music Disc' — Ser_Sicerio (/warp serstore)
-   Buys at $500.00 each, sells at $100.00 each
-   → Margin: $400.00 per item
-
---------------------------------------------------------------------------------
-19. 'Music Disc' — Ser_Sicerio (/warp serstore)
-   Buys at $500.00 each, sells at $100.00 each
-   → Margin: $400.00 per item
-
---------------------------------------------------------------------------------
-20. 'Music Disc' — Ser_Sicerio (/warp serstore)
-   Buys at $500.00 each, sells at $100.00 each
-   → Margin: $400.00 per item
-
---------------------------------------------------------------------------------
-21. 'Music Disc' — Ser_Sicerio (/warp serstore)
-   Buys at $500.00 each, sells at $100.00 each
-   → Margin: $400.00 per item
-
---------------------------------------------------------------------------------
-22. 'Music Disc' — Ser_Sicerio (/warp serstore)
-   Buys at $500.00 each, sells at $100.00 each
-   → Margin: $400.00 per item
-
---------------------------------------------------------------------------------
-23. 'Music Disc' — Ser_Sicerio (/warp serstore)
-   Buys at $500.00 each, sells at $100.00 each
-   → Margin: $400.00 per item
-
---------------------------------------------------------------------------------
-24. 'Music Disc' — Ser_Sicerio (/warp serstore)
-   Buys at $500.00 each, sells at $100.00 each
-   → Margin: $400.00 per item
-
---------------------------------------------------------------------------------
-25. 'Music Disc' — Ser_Sicerio (/warp serstore)
-   Buys at $500.00 each, sells at $100.00 each
-   → Margin: $400.00 per item
-
---------------------------------------------------------------------------------
-26. 'Music Disc' — Ser_Sicerio (/warp serstore)
-   Buys at $500.00 each, sells at $100.00 each
-   → Margin: $400.00 per item
-
---------------------------------------------------------------------------------
-27. 'Music Disc' — Ser_Sicerio (/warp serstore)
-   Buys at $500.00 each, sells at $100.00 each
-   → Margin: $400.00 per item
-
---------------------------------------------------------------------------------
-28. 'Horn Coral Block' — NoWaterJustIce (/warp 1)
+1. 'Horn Coral Block' — NoWaterJustIce (/warp 1)
    Buys at $35.00 each, sells at $15.00 each
    → Margin: $20.00 per item
 
 --------------------------------------------------------------------------------
-29. 'Glowstone Dust' — Dani3537 (/warp daniwarp)
+2. 'Glowstone Dust' — Dani3537 (/warp daniwarp)
    Buys at $10.00 each, sells at $5.00 each
    → Margin: $5.00 per item
 
 --------------------------------------------------------------------------------
-30. 'Nether Wart' — Dwarffles (/warp lidl)
+3. 'Nether Wart' — Dwarffles (/warp lidl)
    Buys at $5.00 each, sells at $2.00 each
    → Margin: $3.00 per item
 
 --------------------------------------------------------------------------------
-31. 'Nether Wart' — Dwarffles (/warp lidl)
+4. 'Nether Wart' — Dwarffles (/warp lidl)
    Buys at $5.00 each, sells at $2.00 each
    → Margin: $3.00 per item
 
 --------------------------------------------------------------------------------
-32. 'Nether Wart' — Dwarffles (/warp lidl)
+5. 'Nether Wart' — Dwarffles (/warp lidl)
    Buys at $5.00 each, sells at $2.00 each
    → Margin: $3.00 per item
 
 --------------------------------------------------------------------------------
-33. 'Nether Wart' — Dwarffles (/warp lidl)
+6. 'Nether Wart' — Dwarffles (/warp lidl)
    Buys at $5.00 each, sells at $2.00 each
    → Margin: $3.00 per item
 
 --------------------------------------------------------------------------------
-34. 'Nether Wart' — Dwarffles (/warp lidl)
+7. 'Nether Wart' — Dwarffles (/warp lidl)
    Buys at $5.00 each, sells at $2.00 each
    → Margin: $3.00 per item
 
 --------------------------------------------------------------------------------
-35. 'Nether Wart' — Dwarffles (/warp lidl)
+8. 'Nether Wart' — Dwarffles (/warp lidl)
    Buys at $5.00 each, sells at $2.00 each
    → Margin: $3.00 per item
 
 --------------------------------------------------------------------------------
-36. 'Iron Ingot' — Crazy69 (/warp crazysshop)
+9. 'Iron Ingot' — Crazy69 (/warp crazysshop)
    Buys at $4.00 each, sells at $2.00 each
    → Margin: $2.00 per item
 
 --------------------------------------------------------------------------------
-37. 'Leather' — FX_02 (/warp sell me ores)
+10. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $1.50 each, sells at $0.00 each
    → Margin: $1.50 per item
 
 --------------------------------------------------------------------------------
-38. 'Leather' — FX_02 (/warp sell me ores)
+11. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $1.50 each, sells at $0.00 each
    → Margin: $1.50 per item
 
 --------------------------------------------------------------------------------
-39. 'Leather' — FX_02 (/warp sell me ores)
+12. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $1.50 each, sells at $0.00 each
    → Margin: $1.50 per item
 
 --------------------------------------------------------------------------------
-40. 'Leather' — FX_02 (/warp sell me ores)
+13. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $1.50 each, sells at $0.00 each
    → Margin: $1.50 per item
 
 --------------------------------------------------------------------------------
-41. 'Leather' — FX_02 (/warp sell me ores)
+14. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $1.50 each, sells at $0.00 each
    → Margin: $1.50 per item
 
 --------------------------------------------------------------------------------
-42. 'Leather' — FX_02 (/warp sell me ores)
+15. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $1.50 each, sells at $0.00 each
    → Margin: $1.50 per item
 
 --------------------------------------------------------------------------------
-43. 'Feather' — FX_02 (/warp sell me ores)
+16. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $1.00 each, sells at $0.00 each
    → Margin: $1.00 per item
 
 --------------------------------------------------------------------------------
-44. 'Feather' — FX_02 (/warp sell me ores)
+17. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $1.00 each, sells at $0.00 each
    → Margin: $1.00 per item
 
 --------------------------------------------------------------------------------
-45. 'Feather' — FX_02 (/warp sell me ores)
+18. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $1.00 each, sells at $0.00 each
    → Margin: $1.00 per item
 
 --------------------------------------------------------------------------------
-46. 'Feather' — FX_02 (/warp sell me ores)
+19. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $1.00 each, sells at $0.00 each
    → Margin: $1.00 per item
 
 --------------------------------------------------------------------------------
-47. 'Iron Nugget' — MaddysinLeigh (/warp maddy's mega mall)
+20. 'Iron Nugget' — MaddysinLeigh (/warp maddy's mega mall)
    Buys at $1.00 each, sells at $0.30 each
    → Margin: $0.70 per item
+
+--------------------------------------------------------------------------------
+21. 'Raw Beef' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+22. 'Raw Beef' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+23. 'Raw Beef' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+24. 'Raw Beef' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+25. 'Raw Beef' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+26. 'Raw Beef' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+27. 'Raw Beef' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+28. 'Raw Beef' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+29. 'Raw Beef' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+30. 'Raw Beef' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+31. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+32. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+33. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+34. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+35. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+36. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+37. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+38. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+39. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+40. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+41. 'Raw Beef' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+42. 'Raw Beef' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+43. 'Raw Beef' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+44. 'Raw Beef' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+45. 'Raw Beef' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+46. 'Raw Beef' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
+
+--------------------------------------------------------------------------------
+47. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+   Buys at $0.28 each, sells at $0.00 each
+   → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
 48. 'Raw Porkchop' — FX_02 (/warp sell me ores)
@@ -283,7 +283,7 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-57. 'Raw Beef' — FX_02 (/warp sell me ores)
+57. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -553,17 +553,17 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-111. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+111. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-112. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+112. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-113. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+113. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -608,77 +608,77 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-122. 'Feather' — FX_02 (/warp sell me ores)
+122. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-123. 'Feather' — FX_02 (/warp sell me ores)
+123. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-124. 'Feather' — FX_02 (/warp sell me ores)
+124. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-125. 'Feather' — FX_02 (/warp sell me ores)
+125. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-126. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+126. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-127. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+127. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-128. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+128. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-129. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+129. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-130. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+130. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-131. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+131. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-132. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+132. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-133. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+133. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-134. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+134. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-135. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+135. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-136. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+136. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -703,57 +703,57 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-141. 'Feather' — FX_02 (/warp sell me ores)
+141. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-142. 'Feather' — FX_02 (/warp sell me ores)
+142. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-143. 'Feather' — FX_02 (/warp sell me ores)
+143. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-144. 'Feather' — FX_02 (/warp sell me ores)
+144. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-145. 'Feather' — FX_02 (/warp sell me ores)
+145. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-146. 'Feather' — FX_02 (/warp sell me ores)
+146. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-147. 'Feather' — FX_02 (/warp sell me ores)
+147. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-148. 'Feather' — FX_02 (/warp sell me ores)
+148. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-149. 'Feather' — FX_02 (/warp sell me ores)
+149. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-150. 'Feather' — FX_02 (/warp sell me ores)
+150. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-151. 'Feather' — FX_02 (/warp sell me ores)
+151. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -763,22 +763,22 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-153. 'Raw Chicken' — FX_02 (/warp sell me ores)
+153. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-154. 'Raw Chicken' — FX_02 (/warp sell me ores)
+154. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-155. 'Raw Chicken' — FX_02 (/warp sell me ores)
+155. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-156. 'Raw Chicken' — FX_02 (/warp sell me ores)
+156. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -823,17 +823,17 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-165. 'Feather' — FX_02 (/warp sell me ores)
+165. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-166. 'Feather' — FX_02 (/warp sell me ores)
+166. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-167. 'Feather' — FX_02 (/warp sell me ores)
+167. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -998,7 +998,7 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-200. 'Raw Beef' — FX_02 (/warp sell me ores)
+200. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -1023,57 +1023,57 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-205. 'Raw Chicken' — FX_02 (/warp sell me ores)
+205. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-206. 'Raw Chicken' — FX_02 (/warp sell me ores)
+206. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-207. 'Raw Chicken' — FX_02 (/warp sell me ores)
+207. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-208. 'Raw Chicken' — FX_02 (/warp sell me ores)
+208. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-209. 'Raw Chicken' — FX_02 (/warp sell me ores)
+209. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-210. 'Raw Chicken' — FX_02 (/warp sell me ores)
+210. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-211. 'Raw Chicken' — FX_02 (/warp sell me ores)
+211. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-212. 'Raw Chicken' — FX_02 (/warp sell me ores)
+212. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-213. 'Raw Chicken' — FX_02 (/warp sell me ores)
+213. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-214. 'Raw Chicken' — FX_02 (/warp sell me ores)
+214. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-215. 'Raw Chicken' — FX_02 (/warp sell me ores)
+215. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -1183,12 +1183,12 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-237. 'Raw Beef' — FX_02 (/warp sell me ores)
+237. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-238. 'Raw Beef' — FX_02 (/warp sell me ores)
+238. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -1238,17 +1238,17 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-248. 'Raw Chicken' — FX_02 (/warp sell me ores)
+248. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-249. 'Raw Chicken' — FX_02 (/warp sell me ores)
+249. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-250. 'Raw Chicken' — FX_02 (/warp sell me ores)
+250. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -1263,57 +1263,57 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-253. 'Raw Beef' — FX_02 (/warp sell me ores)
+253. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-254. 'Raw Beef' — FX_02 (/warp sell me ores)
+254. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-255. 'Raw Beef' — FX_02 (/warp sell me ores)
+255. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-256. 'Raw Beef' — FX_02 (/warp sell me ores)
+256. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-257. 'Raw Beef' — FX_02 (/warp sell me ores)
+257. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-258. 'Raw Beef' — FX_02 (/warp sell me ores)
+258. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-259. 'Raw Beef' — FX_02 (/warp sell me ores)
+259. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-260. 'Raw Beef' — FX_02 (/warp sell me ores)
+260. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-261. 'Raw Beef' — FX_02 (/warp sell me ores)
+261. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-262. 'Raw Beef' — FX_02 (/warp sell me ores)
+262. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-263. 'Raw Beef' — FX_02 (/warp sell me ores)
+263. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -1423,12 +1423,12 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-285. 'Raw Chicken' — FX_02 (/warp sell me ores)
+285. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-286. 'Raw Chicken' — FX_02 (/warp sell me ores)
+286. 'Raw Rabbit' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -1478,17 +1478,17 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-296. 'Feather' — FX_02 (/warp sell me ores)
+296. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-297. 'Feather' — FX_02 (/warp sell me ores)
+297. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-298. 'Raw Beef' — FX_02 (/warp sell me ores)
+298. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -1503,57 +1503,57 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-301. 'Raw Chicken' — FX_02 (/warp sell me ores)
+301. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-302. 'Raw Chicken' — FX_02 (/warp sell me ores)
+302. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-303. 'Raw Chicken' — FX_02 (/warp sell me ores)
+303. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-304. 'Raw Chicken' — FX_02 (/warp sell me ores)
+304. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-305. 'Raw Chicken' — FX_02 (/warp sell me ores)
+305. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-306. 'Raw Chicken' — FX_02 (/warp sell me ores)
+306. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-307. 'Raw Chicken' — FX_02 (/warp sell me ores)
+307. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-308. 'Raw Chicken' — FX_02 (/warp sell me ores)
+308. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-309. 'Raw Chicken' — FX_02 (/warp sell me ores)
+309. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-310. 'Raw Chicken' — FX_02 (/warp sell me ores)
+310. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-311. 'Raw Chicken' — FX_02 (/warp sell me ores)
+311. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -1583,52 +1583,52 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-317. 'Feather' — FX_02 (/warp sell me ores)
+317. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-318. 'Raw Beef' — FX_02 (/warp sell me ores)
+318. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-319. 'Feather' — FX_02 (/warp sell me ores)
+319. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-320. 'Feather' — FX_02 (/warp sell me ores)
+320. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-321. 'Feather' — FX_02 (/warp sell me ores)
+321. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-322. 'Feather' — FX_02 (/warp sell me ores)
+322. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-323. 'Feather' — FX_02 (/warp sell me ores)
+323. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-324. 'Feather' — FX_02 (/warp sell me ores)
+324. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-325. 'Feather' — FX_02 (/warp sell me ores)
+325. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-326. 'Feather' — FX_02 (/warp sell me ores)
+326. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -1638,27 +1638,27 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-328. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+328. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-329. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+329. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-330. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+330. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-331. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+331. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-332. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+332. 'Feather' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -1693,27 +1693,27 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-339. 'Feather' — FX_02 (/warp sell me ores)
+339. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-340. 'Feather' — FX_02 (/warp sell me ores)
+340. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-341. 'Feather' — FX_02 (/warp sell me ores)
+341. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-342. 'Feather' — FX_02 (/warp sell me ores)
+342. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-343. 'Feather' — FX_02 (/warp sell me ores)
+343. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -2038,7 +2038,7 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-408. 'Raw Chicken' — FX_02 (/warp sell me ores)
+408. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -2063,57 +2063,57 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-413. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+413. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-414. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+414. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-415. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+415. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-416. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+416. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-417. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+417. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-418. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+418. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-419. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+419. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-420. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+420. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-421. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+421. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-422. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+422. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-423. 'Raw Porkchop' — FX_02 (/warp sell me ores)
+423. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -2143,42 +2143,42 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-429. 'Raw Chicken' — FX_02 (/warp sell me ores)
+429. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-430. 'Raw Chicken' — FX_02 (/warp sell me ores)
+430. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-431. 'Raw Chicken' — FX_02 (/warp sell me ores)
+431. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-432. 'Raw Chicken' — FX_02 (/warp sell me ores)
+432. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-433. 'Raw Chicken' — FX_02 (/warp sell me ores)
+433. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-434. 'Raw Chicken' — FX_02 (/warp sell me ores)
+434. 'Raw Porkchop' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-435. 'Raw Chicken' — FX_02 (/warp sell me ores)
+435. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-436. 'Raw Chicken' — FX_02 (/warp sell me ores)
+436. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -2198,32 +2198,32 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-440. 'Raw Beef' — FX_02 (/warp sell me ores)
+440. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-441. 'Raw Beef' — FX_02 (/warp sell me ores)
+441. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-442. 'Raw Beef' — FX_02 (/warp sell me ores)
+442. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-443. 'Raw Beef' — FX_02 (/warp sell me ores)
+443. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-444. 'Raw Beef' — FX_02 (/warp sell me ores)
+444. 'Raw Chicken' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-445. 'Raw Rabbit' — FX_02 (/warp sell me ores)
+445. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -2243,37 +2243,37 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-449. 'Raw Chicken' — FX_02 (/warp sell me ores)
+449. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-450. 'Raw Chicken' — FX_02 (/warp sell me ores)
+450. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-451. 'Raw Chicken' — FX_02 (/warp sell me ores)
+451. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-452. 'Raw Chicken' — FX_02 (/warp sell me ores)
+452. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-453. 'Raw Chicken' — FX_02 (/warp sell me ores)
+453. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-454. 'Raw Chicken' — FX_02 (/warp sell me ores)
+454. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-455. 'Raw Chicken' — FX_02 (/warp sell me ores)
+455. 'Raw Beef' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -2468,47 +2468,47 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-494. 'Raw Beef' — FX_02 (/warp sell me ores)
+494. 'Raw Rabbit' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-495. 'Raw Beef' — FX_02 (/warp sell me ores)
+495. 'Raw Rabbit' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-496. 'Raw Beef' — FX_02 (/warp sell me ores)
+496. 'Raw Rabbit' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-497. 'Raw Beef' — FX_02 (/warp sell me ores)
+497. 'Raw Rabbit' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-498. 'Raw Beef' — FX_02 (/warp sell me ores)
+498. 'Raw Rabbit' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-499. 'Raw Beef' — FX_02 (/warp sell me ores)
+499. 'Raw Rabbit' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-500. 'Raw Beef' — FX_02 (/warp sell me ores)
+500. 'Raw Rabbit' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-501. 'Raw Beef' — FX_02 (/warp sell me ores)
+501. 'Raw Rabbit' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-502. 'Raw Beef' — FX_02 (/warp sell me ores)
+502. 'Raw Rabbit' — FX_02 (/warp sell me ores)
    Buys at $0.28 each, sells at $0.00 each
    → Margin: $0.28 per item
 
@@ -2623,172 +2623,172 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.28 per item
 
 --------------------------------------------------------------------------------
-525. 'Raw Beef' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-526. 'Raw Beef' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-527. 'Raw Beef' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-528. 'Raw Beef' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-529. 'Raw Beef' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-530. 'Raw Beef' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-531. 'Raw Porkchop' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-532. 'Raw Porkchop' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-533. 'Raw Porkchop' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-534. 'Raw Porkchop' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-535. 'Raw Porkchop' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-536. 'Raw Porkchop' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-537. 'Raw Beef' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-538. 'Raw Beef' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-539. 'Raw Beef' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-540. 'Raw Beef' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-541. 'Raw Beef' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-542. 'Raw Beef' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-543. 'Raw Rabbit' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-544. 'Raw Rabbit' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-545. 'Raw Rabbit' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-546. 'Raw Rabbit' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-547. 'Raw Rabbit' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-548. 'Raw Rabbit' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-549. 'Raw Rabbit' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-550. 'Raw Rabbit' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-551. 'Raw Rabbit' — FX_02 (/warp sell me ores)
-   Buys at $0.28 each, sells at $0.00 each
-   → Margin: $0.28 per item
-
---------------------------------------------------------------------------------
-552. 'Leather' — FX_02 (/warp sell me ores)
+525. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-553. 'Leather' — FX_02 (/warp sell me ores)
+526. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-554. 'Leather' — FX_02 (/warp sell me ores)
+527. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-555. 'Leather' — FX_02 (/warp sell me ores)
+528. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-556. 'Leather' — FX_02 (/warp sell me ores)
+529. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-557. 'Leather' — FX_02 (/warp sell me ores)
+530. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-558. 'Leather' — FX_02 (/warp sell me ores)
+531. 'Leather' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+532. 'Leather' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+533. 'Leather' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+534. 'Leather' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+535. 'Leather' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+536. 'Leather' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+537. 'Leather' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+538. 'Leather' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+539. 'Leather' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+540. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+541. 'Leather' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+542. 'Leather' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+543. 'Leather' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+544. 'Blaze Rod' — TycoRC (/warp xp grinder)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+545. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+546. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+547. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+548. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+549. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+550. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+551. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+552. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+553. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+554. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+555. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+556. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+557. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+   Buys at $0.26 each, sells at $0.00 each
+   → Margin: $0.26 per item
+
+--------------------------------------------------------------------------------
+558. 'Rabbit Hide' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
@@ -2833,132 +2833,132 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-567. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+567. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-568. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+568. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-569. 'Blaze Rod' — TycoRC (/warp xp grinder)
+569. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-570. 'Blaze Rod' — TycoRC (/warp xp grinder)
+570. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-571. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+571. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-572. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+572. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-573. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+573. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-574. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+574. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-575. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+575. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-576. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+576. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-577. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+577. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-578. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+578. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-579. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+579. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-580. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+580. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-581. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+581. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-582. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+582. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-583. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+583. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-584. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+584. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-585. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+585. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-586. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+586. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-587. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+587. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-588. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+588. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-589. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+589. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-590. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+590. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-591. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+591. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-592. 'Rabbit Hide' — FX_02 (/warp sell me ores)
+592. 'Leather' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
@@ -3418,102 +3418,102 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-684. 'Leather' — FX_02 (/warp sell me ores)
+684. 'Rabbit Hide' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-685. 'Leather' — FX_02 (/warp sell me ores)
+685. 'Rabbit Hide' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-686. 'Leather' — FX_02 (/warp sell me ores)
+686. 'Rabbit Hide' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-687. 'Leather' — FX_02 (/warp sell me ores)
+687. 'Rabbit Hide' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-688. 'Leather' — FX_02 (/warp sell me ores)
+688. 'Rabbit Hide' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-689. 'Leather' — FX_02 (/warp sell me ores)
+689. 'Rabbit Hide' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-690. 'Leather' — FX_02 (/warp sell me ores)
+690. 'Rabbit Hide' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-691. 'Leather' — FX_02 (/warp sell me ores)
+691. 'Rabbit Hide' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-692. 'Leather' — FX_02 (/warp sell me ores)
+692. 'Rabbit Hide' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-693. 'Leather' — FX_02 (/warp sell me ores)
+693. 'Rabbit Hide' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-694. 'Leather' — FX_02 (/warp sell me ores)
+694. 'Rabbit Hide' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-695. 'Leather' — FX_02 (/warp sell me ores)
+695. 'Blaze Rod' — TycoRC (/warp xp grinder)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-696. 'Leather' — FX_02 (/warp sell me ores)
+696. 'Blaze Rod' — TycoRC (/warp xp grinder)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-697. 'Leather' — FX_02 (/warp sell me ores)
+697. 'Blaze Rod' — TycoRC (/warp xp grinder)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-698. 'Leather' — FX_02 (/warp sell me ores)
+698. 'Blaze Rod' — TycoRC (/warp xp grinder)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-699. 'Leather' — FX_02 (/warp sell me ores)
+699. 'Blaze Rod' — TycoRC (/warp xp grinder)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-700. 'Leather' — FX_02 (/warp sell me ores)
+700. 'Blaze Rod' — TycoRC (/warp xp grinder)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-701. 'Leather' — FX_02 (/warp sell me ores)
+701. 'Blaze Rod' — TycoRC (/warp xp grinder)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-702. 'Leather' — FX_02 (/warp sell me ores)
+702. 'Rabbit Hide' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-703. 'Leather' — FX_02 (/warp sell me ores)
+703. 'Rabbit Hide' — FX_02 (/warp sell me ores)
    Buys at $0.26 each, sells at $0.00 each
    → Margin: $0.26 per item
 
@@ -3523,197 +3523,197 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.26 per item
 
 --------------------------------------------------------------------------------
-705. 'Leather' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-706. 'Leather' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-707. 'Leather' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-708. 'Leather' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-709. 'Leather' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-710. 'Leather' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-711. 'Leather' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-712. 'Leather' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-713. 'Leather' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-714. 'Leather' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-715. 'Rabbit Hide' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-716. 'Rabbit Hide' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-717. 'Rabbit Hide' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-718. 'Rabbit Hide' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-719. 'Leather' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-720. 'Leather' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-721. 'Leather' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-722. 'Leather' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-723. 'Leather' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-724. 'Blaze Rod' — TycoRC (/warp xp grinder)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-725. 'Blaze Rod' — TycoRC (/warp xp grinder)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-726. 'Blaze Rod' — TycoRC (/warp xp grinder)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-727. 'Blaze Rod' — TycoRC (/warp xp grinder)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-728. 'Blaze Rod' — TycoRC (/warp xp grinder)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-729. 'Blaze Rod' — TycoRC (/warp xp grinder)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-730. 'Leather' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-731. 'Leather' — FX_02 (/warp sell me ores)
-   Buys at $0.26 each, sells at $0.00 each
-   → Margin: $0.26 per item
-
---------------------------------------------------------------------------------
-732. 'Spider Eye' — FX_02 (/warp 1)
+705. 'Spider Eye' — FX_02 (/warp 1)
    Buys at $0.25 each, sells at $0.00 each
    → Margin: $0.25 per item
 
 --------------------------------------------------------------------------------
-733. 'Spider Eye' — FX_02 (/warp 1)
+706. 'Spider Eye' — FX_02 (/warp 1)
    Buys at $0.25 each, sells at $0.00 each
    → Margin: $0.25 per item
 
 --------------------------------------------------------------------------------
-734. 'Spider Eye' — FX_02 (/warp 1)
+707. 'Spider Eye' — FX_02 (/warp 1)
    Buys at $0.25 each, sells at $0.00 each
    → Margin: $0.25 per item
 
 --------------------------------------------------------------------------------
-735. 'Spider Eye' — FX_02 (/warp 1)
+708. 'Spider Eye' — FX_02 (/warp 1)
    Buys at $0.25 each, sells at $0.00 each
    → Margin: $0.25 per item
 
 --------------------------------------------------------------------------------
-736. 'Spider Eye' — FX_02 (/warp 1)
+709. 'Spider Eye' — FX_02 (/warp 1)
    Buys at $0.25 each, sells at $0.00 each
    → Margin: $0.25 per item
 
 --------------------------------------------------------------------------------
-737. 'Spider Eye' — FX_02 (/warp 1)
+710. 'Spider Eye' — FX_02 (/warp 1)
    Buys at $0.25 each, sells at $0.00 each
    → Margin: $0.25 per item
 
 --------------------------------------------------------------------------------
-738. 'Spider Eye' — FX_02 (/warp 1)
+711. 'Spider Eye' — FX_02 (/warp 1)
    Buys at $0.25 each, sells at $0.00 each
    → Margin: $0.25 per item
 
 --------------------------------------------------------------------------------
-739. 'Spider Eye' — FX_02 (/warp 1)
+712. 'Spider Eye' — FX_02 (/warp 1)
    Buys at $0.25 each, sells at $0.00 each
    → Margin: $0.25 per item
 
 --------------------------------------------------------------------------------
-740. 'Spider Eye' — FX_02 (/warp 1)
+713. 'Spider Eye' — FX_02 (/warp 1)
    Buys at $0.25 each, sells at $0.00 each
    → Margin: $0.25 per item
 
 --------------------------------------------------------------------------------
-741. 'Arrow' — FX_02 (/warp 1)
+714. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-742. 'Arrow' — FX_02 (/warp 1)
+715. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-743. 'String' — FX_02 (/warp 1)
+716. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+717. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+718. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+719. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+720. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+721. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+722. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+723. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+724. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+725. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+726. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+727. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+728. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+729. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+730. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+731. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+732. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+733. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+734. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+735. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+736. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+737. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+738. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+739. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+740. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+741. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+742. 'String' — FX_02 (/warp 1)
+   Buys at $0.21 each, sells at $0.00 each
+   → Margin: $0.21 per item
+
+--------------------------------------------------------------------------------
+743. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
@@ -3753,27 +3753,27 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-751. 'Arrow' — FX_02 (/warp 1)
+751. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-752. 'Arrow' — FX_02 (/warp 1)
+752. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-753. 'Arrow' — FX_02 (/warp 1)
+753. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-754. 'Arrow' — FX_02 (/warp 1)
+754. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-755. 'Arrow' — FX_02 (/warp 1)
+755. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
@@ -3818,7 +3818,7 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-764. 'Arrow' — FX_02 (/warp 1)
+764. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
@@ -4038,42 +4038,42 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-808. 'String' — FX_02 (/warp 1)
+808. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-809. 'String' — FX_02 (/warp 1)
+809. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-810. 'String' — FX_02 (/warp 1)
+810. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-811. 'String' — FX_02 (/warp 1)
+811. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-812. 'String' — FX_02 (/warp 1)
+812. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-813. 'String' — FX_02 (/warp 1)
+813. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-814. 'String' — FX_02 (/warp 1)
+814. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-815. 'String' — FX_02 (/warp 1)
+815. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
@@ -4083,92 +4083,92 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-817. 'String' — FX_02 (/warp 1)
+817. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-818. 'String' — FX_02 (/warp 1)
+818. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-819. 'String' — FX_02 (/warp 1)
+819. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-820. 'String' — FX_02 (/warp 1)
+820. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-821. 'String' — FX_02 (/warp 1)
+821. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-822. 'String' — FX_02 (/warp 1)
+822. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-823. 'String' — FX_02 (/warp 1)
+823. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-824. 'String' — FX_02 (/warp 1)
+824. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-825. 'String' — FX_02 (/warp 1)
+825. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-826. 'String' — FX_02 (/warp 1)
+826. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-827. 'String' — FX_02 (/warp 1)
+827. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-828. 'String' — FX_02 (/warp 1)
+828. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-829. 'String' — FX_02 (/warp 1)
+829. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-830. 'String' — FX_02 (/warp 1)
+830. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-831. 'String' — FX_02 (/warp 1)
+831. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-832. 'String' — FX_02 (/warp 1)
+832. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-833. 'String' — FX_02 (/warp 1)
+833. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-834. 'String' — FX_02 (/warp 1)
+834. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
@@ -4188,32 +4188,32 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-838. 'String' — FX_02 (/warp 1)
+838. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-839. 'String' — FX_02 (/warp 1)
+839. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-840. 'String' — FX_02 (/warp 1)
+840. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-841. 'String' — FX_02 (/warp 1)
+841. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-842. 'String' — FX_02 (/warp 1)
+842. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-843. 'String' — FX_02 (/warp 1)
+843. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
@@ -4438,67 +4438,67 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-888. 'Arrow' — FX_02 (/warp 1)
+888. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-889. 'Arrow' — FX_02 (/warp 1)
+889. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-890. 'Arrow' — FX_02 (/warp 1)
+890. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-891. 'Arrow' — FX_02 (/warp 1)
+891. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-892. 'Arrow' — FX_02 (/warp 1)
+892. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-893. 'Arrow' — FX_02 (/warp 1)
+893. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-894. 'Arrow' — FX_02 (/warp 1)
+894. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-895. 'Arrow' — FX_02 (/warp 1)
+895. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-896. 'Arrow' — FX_02 (/warp 1)
+896. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-897. 'Arrow' — FX_02 (/warp 1)
+897. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-898. 'Arrow' — FX_02 (/warp 1)
+898. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-899. 'Arrow' — FX_02 (/warp 1)
+899. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-900. 'Arrow' — FX_02 (/warp 1)
+900. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
@@ -4508,7 +4508,7 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-902. 'Arrow' — FX_02 (/warp 1)
+902. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
@@ -4518,27 +4518,27 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-904. 'Arrow' — FX_02 (/warp 1)
+904. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-905. 'Arrow' — FX_02 (/warp 1)
+905. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-906. 'Arrow' — FX_02 (/warp 1)
+906. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-907. 'Arrow' — FX_02 (/warp 1)
+907. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-908. 'Arrow' — FX_02 (/warp 1)
+908. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
@@ -4573,12 +4573,12 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-915. 'String' — FX_02 (/warp 1)
+915. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-916. 'String' — FX_02 (/warp 1)
+916. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
@@ -4648,7 +4648,7 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-930. 'Arrow' — FX_02 (/warp 1)
+930. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
@@ -4668,149 +4668,149 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-934. 'Arrow' — FX_02 (/warp 1)
+934. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-935. 'Arrow' — FX_02 (/warp 1)
+935. 'String' — FX_02 (/warp 1)
    Buys at $0.21 each, sells at $0.00 each
    → Margin: $0.21 per item
 
 --------------------------------------------------------------------------------
-936. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+936. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-937. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+937. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-938. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+938. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-939. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+939. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-940. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+940. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-941. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+941. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-942. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+942. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-943. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+943. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-944. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+944. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-945. 'String' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+945. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-946. 'String' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+946. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-947. 'String' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+947. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-948. 'String' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+948. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-949. 'String' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+949. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-950. 'String' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+950. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-951. 'String' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+951. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-952. 'String' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+952. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-953. 'String' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+953. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-954. 'String' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+954. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-955. 'String' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+955. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-956. 'String' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+956. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-957. 'String' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+957. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-958. 'String' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+958. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-959. 'String' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+959. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-960. 'String' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+960. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-961. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+961. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-962. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.21 each, sells at $0.00 each
-   → Margin: $0.21 per item
+962. 'Spider Eye' — FX_02 (/warp 1)
+   Buys at $0.18 each, sells at $0.00 each
+   → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
 963. 'Spider Eye' — FX_02 (/warp 1)
@@ -5668,287 +5668,152 @@ Exploitable indefinitely regardless of listed stock — grind/farm the item your
    → Margin: $0.18 per item
 
 --------------------------------------------------------------------------------
-1134. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1135. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1136. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1137. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1138. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1139. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1140. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1141. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1142. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1143. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1144. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1145. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1146. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1147. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1148. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1149. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1150. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1151. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1152. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1153. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1154. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1155. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1156. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1157. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1158. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1159. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1160. 'Spider Eye' — FX_02 (/warp 1)
-   Buys at $0.18 each, sells at $0.00 each
-   → Margin: $0.18 per item
-
---------------------------------------------------------------------------------
-1161. 'String' — FX_02 (/warp 1)
+1134. 'String' — FX_02 (/warp 1)
    Buys at $0.15 each, sells at $0.00 each
    → Margin: $0.15 per item
 
 --------------------------------------------------------------------------------
-1162. 'String' — FX_02 (/warp 1)
+1135. 'String' — FX_02 (/warp 1)
    Buys at $0.15 each, sells at $0.00 each
    → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1136. 'String' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1137. 'String' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1138. 'String' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1139. 'String' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1140. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1141. 'String' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1142. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1143. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1144. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1145. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1146. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1147. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1148. 'String' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1149. 'String' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1150. 'String' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1151. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1152. 'String' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1153. 'String' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1154. 'String' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1155. 'String' — FX_02 (/warp 1)
+   Buys at $0.15 each, sells at $0.00 each
+   → Margin: $0.15 per item
+
+--------------------------------------------------------------------------------
+1156. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.10 each, sells at $0.00 each
+   → Margin: $0.10 per item
+
+--------------------------------------------------------------------------------
+1157. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.10 each, sells at $0.00 each
+   → Margin: $0.10 per item
+
+--------------------------------------------------------------------------------
+1158. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.10 each, sells at $0.00 each
+   → Margin: $0.10 per item
+
+--------------------------------------------------------------------------------
+1159. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.10 each, sells at $0.00 each
+   → Margin: $0.10 per item
+
+--------------------------------------------------------------------------------
+1160. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.10 each, sells at $0.00 each
+   → Margin: $0.10 per item
+
+--------------------------------------------------------------------------------
+1161. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.10 each, sells at $0.00 each
+   → Margin: $0.10 per item
+
+--------------------------------------------------------------------------------
+1162. 'Arrow' — FX_02 (/warp 1)
+   Buys at $0.10 each, sells at $0.00 each
+   → Margin: $0.10 per item
 
 --------------------------------------------------------------------------------
 1163. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1164. 'String' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1165. 'String' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1166. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1167. 'String' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1168. 'String' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1169. 'String' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1170. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1171. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1172. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1173. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1174. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1175. 'String' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1176. 'String' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1177. 'String' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1178. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1179. 'String' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1180. 'String' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1181. 'String' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1182. 'String' — FX_02 (/warp 1)
-   Buys at $0.15 each, sells at $0.00 each
-   → Margin: $0.15 per item
-
---------------------------------------------------------------------------------
-1183. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.10 each, sells at $0.00 each
-   → Margin: $0.10 per item
-
---------------------------------------------------------------------------------
-1184. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.10 each, sells at $0.00 each
-   → Margin: $0.10 per item
-
---------------------------------------------------------------------------------
-1185. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.10 each, sells at $0.00 each
-   → Margin: $0.10 per item
-
---------------------------------------------------------------------------------
-1186. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.10 each, sells at $0.00 each
-   → Margin: $0.10 per item
-
---------------------------------------------------------------------------------
-1187. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.10 each, sells at $0.00 each
-   → Margin: $0.10 per item
-
---------------------------------------------------------------------------------
-1188. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.10 each, sells at $0.00 each
-   → Margin: $0.10 per item
-
---------------------------------------------------------------------------------
-1189. 'Arrow' — FX_02 (/warp 1)
-   Buys at $0.10 each, sells at $0.00 each
-   → Margin: $0.10 per item
-
---------------------------------------------------------------------------------
-1190. 'Arrow' — FX_02 (/warp 1)
    Buys at $0.10 each, sells at $0.00 each
    → Margin: $0.10 per item
 

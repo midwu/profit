@@ -31,7 +31,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from data_loader import load_shop_data
+from data_loader import load_shop_data, load_ignore_list
 
 # ========== CONFIG DEFAULTS (all overridable via CLI flags, see --help) ==========
 DEFAULT_INPUT_FILE = "shop_data.csv"
@@ -69,16 +69,6 @@ def parse_args():
     p.add_argument("--ignore-owners", default=IGNORE_OWNERS_FILE, help="Path to ignore-owners list")
     p.add_argument("--ignore-warps", default=IGNORE_WARPS_FILE, help="Path to ignore-warps list")
     return p.parse_args()
-
-
-def load_ignore_list(filepath: str) -> set:
-    if Path(filepath).exists():
-        with open(filepath, "r", encoding="utf-8") as f:
-            items = {line.strip() for line in f if line.strip()}
-        print(f"Loaded {len(items)} entries from {filepath}")
-        return items
-    print(f"No {filepath} found → nothing ignored from this list")
-    return set()
 
 
 def allocate_stock(candidates: pd.DataFrame) -> pd.DataFrame:

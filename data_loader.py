@@ -39,6 +39,18 @@ def parse_numeric(value):
         return None
 
 
+def load_ignore_list(filepath: str) -> set:
+    """Load a plain-text, one-entry-per-line ignore list. Returns an empty set if the file doesn't exist."""
+    path = Path(filepath)
+    if path.exists():
+        with open(path, "r", encoding="utf-8") as f:
+            items = {line.strip() for line in f if line.strip()}
+        print(f"Loaded {len(items)} entries from {filepath}")
+        return items
+    print(f"No {filepath} found → nothing ignored from this list")
+    return set()
+
+
 def load_shop_data(filepath: str) -> pd.DataFrame:
     """
     Load and validate shop_data.csv. Exits with a clear message (instead
