@@ -117,4 +117,18 @@ def load_shop_data(filepath: str) -> pd.DataFrame:
     if n_dupes:
         print(f"NOTE: {n_dupes} duplicate listing(s) found (same Shop Location + Item + Action) — kept the newest Timestamp for each.")
 
+    # --- Always drop Dead shops ---
+    # "Dead" means the shop itself is gone — unlike "out of stock"/"out of space",
+    # which is just a stale-but-possibly-still-valid snapshot, a dead shop is
+    # never worth surfacing. This is unconditional and NOT affected by any
+    # --include-inactive flag the calling script may offer.
+    dead_mask = df["Status"].astype(str).str.strip().str.casefold() == "dead"
+    n_dead = int(dead_mask.sum())
+    if n_dead:
+        print(f"NOTE: {n_dead} listing(s) with Status 'Dead' were dropped (shop no longer exists).")
+    df = df.loc[~dead_mask].copy()
+
+    if len(df) == 0:
+        sys.exit(f"ERROR: every remaining row in '{filepath}' had Status 'Dead' — nothing to work with.")
+
     return df.reset_index(drop=True)

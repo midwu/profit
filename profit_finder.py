@@ -34,7 +34,7 @@ import pandas as pd
 from data_loader import load_shop_data, load_ignore_list
 
 # ========== CONFIG DEFAULTS (all overridable via CLI flags, see --help) ==========
-DEFAULT_INPUT_FILE = "shop_data.csv"
+DEFAULT_INPUT_FILE = r"C:\Users\nucle\AppData\Roaming\PrismLauncher\instances\1.21.6\minecraft\config\sunnyMod\shop_data.csv"
 DEFAULT_MIN_PROFIT_PER_ITEM = 0.01
 IGNORE_ITEMS_FILE = "ignore_items.txt"
 IGNORE_OWNERS_FILE = "ignore_owners.txt"

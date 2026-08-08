@@ -9,7 +9,6 @@ $5,000 Dono
 ->
 .
 .|.ꜱʜᴀᴅᴏᴡ.|.ʙʟᴏꜱꜱᴏᴍ.|.
-1-Up Mushroom
 1.5x Skills XP Multiplier (30 Minutes)
 100k dono
 10k dono
@@ -25,13 +24,10 @@ $5,000 Dono
 ::Skully::
 A Drop of Sun
 Ablaze
-Acacia Chest (simplified)
 Acacia Hanging Sign
 Acacia Planks
 Acacia Shelf
 Activator Rail
-Ainz Ooal Gown
-Alien
 Allay Spawn Egg
 Allay Spawner
 Allium
@@ -40,25 +36,15 @@ Always
 Amethyst Block
 Amethyst Block Chest
 Amethyst Geode (rounded)
-Amethyst Necklace
-Anakin Skywalker
+Amethyst Shard
 Ancient Debris
-Angry Bee
-Angry Bee Queen
-Angry Bee with Pollen
-Angry Iron Man
-Angry Link
 Anvil
 Anyone Can Cook!
 Aristocrat Bread
 Armor Stand Editor!
-Austria
-Axolotl
 Axolotl Spawn Egg
 Axolotl Spawner
-Azalea
 Azure Bluet
-Baby Sheep
 Bag Of Honey
 Bag of Diamonds
 Bamboo
@@ -75,17 +61,13 @@ Bamboo Sign
 Bamboo Slab
 Bamboo Stairs
 Bamboo Trapdoor
-Barbecue Master♥
 Barrel
 Barrel with Andesite
 Barrel with Cobblestone
 Barrel with Gravel
 Basalt Chest
-Basque Country
 Bat Spawn Egg
-Batman
 Beacon
-Bear
 Beatbreaker
 Because you're
 Bedrock
@@ -95,7 +77,6 @@ Beehive
 Beetroot
 Beetroot Seeds
 Beetroot Soup
-Belgium
 Bell
 Bell Boots
 Beloved Edge
@@ -109,18 +90,41 @@ Birch Planks
 Birch Shelf
 Birch Stairs
 Black
+Black A
+Black B
 Black Banner
-Black Bed
-Black Carpet
+Black C
 Black Cat 🐈
+Black Concrete
 Black Concrete Powder
+Black D
 Black Dye
+Black E
+Black F
+Black G
 Black Glazed Terracotta
-Black Shulker Box
+Black H
+Black I
+Black J
+Black K
+Black L
+Black M
+Black N
+Black O
+Black P
+Black Q
+Black R
+Black S
 Black Stained Glass
-Black Stained Glass Pane
+Black T
 Black Terracotta
+Black U
+Black V
+Black W
 Black Wool
+Black X
+Black Y
+Black Z
 Black and White Slime
 Blackstar Pick
 Blackstone Chest
@@ -128,11 +132,9 @@ Blackstone Stairs
 Blackstone Wall
 Blade_____ - FunkoPop™
 Blast Furnace
-Blaze
 Blaze Powder
 Blaze Spawner
 Block of Amethyst
-Block of Copper
 Block of Emerald
 Block of Lapis Lazuli
 Block of Netherite
@@ -141,58 +143,51 @@ Block of Raw Gold
 Block of Resin
 Blue
 Blue Banner
-Blue Bed
 Blue Bundle
-Blue Carpet
+Blue Concrete
 Blue Concrete Powder
 Blue Dye
 Blue Egg
 Blue Glazed Terracotta
 Blue Harness
 Blue Orchid
-Blue Shulker Box
 Blue Stained Glass
-Blue Stained Glass Pane
 Blue Terracotta
 Blue Wool
 Blue_Axo
-Boba Fett
 Bogged Spawn Egg
 Bogged Spawner
 Bolt Armor Trim
 Boneblock Chest
 Book and Quill
-Bote.
+Bookshelf
 Bottle o' Enchanting
 Bow
-Boy with Crewmate Visor
+Brain Coral
 Brain Coral Block
+Brain Coral Fan
 Bread
 Breeze Spawner
 Brewer Pottery Sherd
 Brewing Stand
 Brick
-Brittany
+Bricks
 Brook
 Brown
 Brown Banner
-Brown Bed
-Brown Carpet
 Brown Concrete
 Brown Concrete Powder
-Brown Dog
 Brown Dye
 Brown Egg
 Brown Glazed Terracotta
-Brown Shulker Box
 Brown Stained Glass
-Brown Stained Glass Pane
 Brown Terracotta
 Brown Wool
+Bubble Coral
+Bubble Coral Block
+Bubble Coral Fan
 Bucket of Axolotl
-Bucket of Cod
 Bucket of Pufferfish
-Bucket of Salmon
 Bucket of Tadpole
 Bucket of Tropical Fish
 Budding Amethyst
@@ -210,17 +205,15 @@ CAT♥
 Cactus Flower
 Caitlyn (1)
 Cake
-Calamity Ganon
 Can Have A
-Canada
 Candle
 Capybara
 Cardinal
 Cartographer's Guild
 Cartography
 Cartography Table
-Cat
 Cauldron
+Cave Spider Spawner
 Chainmail Chestplate
 Chainmail Leggings
 Chartreuse
@@ -241,9 +234,6 @@ Chicken Nugget
 Chicken Spawn Egg
 Chicken Spawner
 Chimney (stone bricks)
-China
-Chinese Dragon
-Chinese Lantern
 Chiseled Bookshelf
 Chiseled Deepslate
 Chiseled Nether Bricks
@@ -261,9 +251,9 @@ Claim Tool
 Clay Ball
 Clock
 Closed Eyeblossom
+Coal Ore
 Coast Armor Trim
 Cobbled Deepslate Chest
-Cobbled Deepslate Stairs
 Cobblestone Dollar
 Cobblestone Slab
 Cobblestone Stairs
@@ -272,10 +262,8 @@ Coffee♥Bunny 1
 Coffee♥Bunny 2
 Coffee♥Bunny 3
 Coffe♥Bunny 4
-Colossal Titan
 Comet's Edge
 Compass
-Conduit
 Cooked Chicken
 Cooked Cod
 Cooked Mutton
@@ -286,13 +274,11 @@ Cookie
 Cool Slime
 Copper Bulb
 Copper Chain
-Copper Nugget
-Coral Dragon
-Cornflower
 Corporate Token
 Cow Spawn Egg
-Cow Spawner
 Cozy Puppy
+Cracked Deepslate Bricks
+Cracked Deepslate Tiles
 Cracked Stone Bricks
 Crafter
 Crafting Table
@@ -300,14 +286,7 @@ Creaking Heart
 Creaking Heart (awake)
 Creeper Head
 Creeper Spawner
-Crewmate
-Crewmate (black)
-Crewmate (brown)
-Crewmate (orange)
-Crewmate (pink)
-Crewmate (purple)
 Crewmate - FunkoPop™
-Crewmate Plushie (yellow)
 Crimson Hyphae
 Crimson Planks
 Crimson Roots
@@ -323,22 +302,17 @@ Cut Red Sandstone
 Cut Sandstone
 Cyan
 Cyan Banner
-Cyan Bed
-Cyan Carpet
+Cyan Concrete
 Cyan Concrete Powder
 Cyan Dye
 Cyan Glazed Terracotta
-Cyan Shulker Box
 Cyan Stained Glass
-Cyan Stained Glass Pane
 Cyan Terracotta
 Cyan Wool
 Cyber Slime
 Daily Crate Key
-Dalmatian
 Damaged Anvil
 Dandelion
-Dark Crewmate
 Dark Oak Hanging Sign
 Dark Oak Planks
 Dark Oak Shelf
@@ -346,9 +320,6 @@ Dark Oak Sign
 Dark Prismarine Slab
 Dark Prismarine Stairs
 Dark Side...
-Darth Maul
-Darth Maul Plushie
-Darth Vader
 Dawn Chestplate
 Dawn Crate Key
 Dawn Hoe
@@ -360,23 +331,52 @@ Decorated Pot
 Deepslate Bricks
 Deepslate Coal Ore
 Deepslate Emerald Ore
+Deepslate Gold Ore
+Deepslate Redstone Ore
 Deepslate Tile Stairs
 Deepslate Tiles
 Deluxe Donation Ball
 Detector Rail
+Diamond A
 Diamond Axe
+Diamond B
 Diamond Block
 Diamond Boots
+Diamond C
 Diamond Chestplate
+Diamond D
 Diamond Dollar
+Diamond E
+Diamond F
+Diamond G
 Diamond Guardian
+Diamond H
 Diamond Helmet
 Diamond Hoe
 Diamond Horse Armor
+Diamond I
+Diamond J
+Diamond K
+Diamond L
 Diamond Leggings
+Diamond M
+Diamond N
+Diamond O
+Diamond Ore
+Diamond P
 Diamond Pickaxe
+Diamond Q
+Diamond R
+Diamond S
 Diamond Shovel
 Diamond Sword
+Diamond T
+Diamond U
+Diamond V
+Diamond W
+Diamond X
+Diamond Y
+Diamond Z
 Disc Fragment
 Dolphin Spawn Egg
 Dolphin Spawner
@@ -399,7 +399,6 @@ Dusk Shovel
 Dusk Turtle Helmet
 EARTH (1)
 Easter Fishing Rod 2025  🐰
-Echo Shard
 Eclipse Guard
 Eclipse Orb
 Ellie's Adventure Book
@@ -409,14 +408,11 @@ Empty Map
 Enchanted Book
 Enchanted Golden Apple
 Enchanting Table
-End Monster
 End Portal Frame
 End Stone Bricks
 Ender Chest
-Enderdragon
 Enderman Spawn Egg
 Enderman Spawner
-England
 Epic Elixir
 Ethereal
 Eustass Kidd
@@ -430,9 +426,10 @@ Fancy Slime
 Fatal Attraction
 Fern
 Festive Flight
-Finland
 Fire Charge
+Fire Coral
 Fire Coral Block
+Fire Coral Fan
 Firefly Bush
 Fishing Rod
 Fletching Table
@@ -442,36 +439,53 @@ Flow Armor Trim
 Flow Pottery Sherd
 Flower Dog
 Flower Pot
-Flowering Azalea
 Flowering Azalea Leaves
-Fox
 Fox Spawn Egg
-France
 Franky
 Free Spirited
 Fried chicken
 Frog Spawner
 Furnace
 GNX
-Gandalf
-Ganondorf
-Geiko
 Geode Dollar
-Germany
 Get You
 Ghast Tear
+Gilded Blackstone B
+Gilded Blackstone C
 Gilded Blackstone Creeper
-Ginger Cat
-Girl
-Girl Plushie
+Gilded Blackstone D
+Gilded Blackstone E
+Gilded Blackstone F
+Gilded Blackstone G
+Gilded Blackstone H
+Gilded Blackstone I
+Gilded Blackstone J
+Gilded Blackstone K
+Gilded Blackstone L
+Gilded Blackstone M
+Gilded Blackstone N
+Gilded Blackstone O
+Gilded Blackstone P
+Gilded Blackstone Q
+Gilded Blackstone R
+Gilded Blackstone S
+Gilded Blackstone T
+Gilded Blackstone U
+Gilded Blackstone V
+Gilded Blackstone W
+Gilded Blackstone X
+Gilded Blackstone Y
+Gilded Blackstone Z
 Girl °｡⋆
 Glass Bottle
 Glass Pane
 Glistering Melon Slice
+Glow Berries
 Glow Item Frame
 Glow Squid Spawn Egg
 Glow Squid Spawner
 Glowstone Chest
+Glowstone Dust
 Glowstriders
 Goat Horn
 Gol D. Roger
@@ -482,31 +496,21 @@ Golden Apple
 Golden Carrot
 Golden Dollar
 Golden Horse Armor
-Golem
-Grand Duchy of Lithuania
 Gray Banner
-Gray Bed
-Gray Carpet
+Gray Concrete
 Gray Concrete Powder
 Gray Dye
 Gray Glazed Terracotta
-Gray Shulker Box
 Gray Stained Glass
-Gray Stained Glass Pane
 Gray Terracotta
 Gray Wool
 Great Ball
 Green
-Green Banner
-Green Bed
-Green Carpet
+Green Concrete
 Green Concrete Powder
 Green Dye
 Green Glazed Terracotta
-Green Guardian
-Green Shulker Box
 Green Stained Glass
-Green Stained Glass Pane
 Green Terracotta
 Green Wool
 Grey
@@ -522,10 +526,7 @@ Guardian Spawner
 Guster (Stained Glass)
 Guster Pottery Sherd
 HUNTRIX BUNDLE
-HW25|| WhatLiesBeneath
-Haiti
 Hampter
-Han Solo
 Hanging Roots
 Hay Bale
 Heart
@@ -537,16 +538,15 @@ Heartbreak Pottery Sherd
 Honey Bottle
 Honeycomb
 Honeycomb Block
+Hopper
+Horn Coral
+Horn Coral Block
+Horn Coral Fan
 Host Armor Trim
 Hot Cocoa Spoon
 Howl Pottery Sherd
-Human Technoblade
-Hungary
 Husk Spawner
 I <3 Serstore
-I Donated $1000 to Crazys69s Shop
-I Donated $25,000 to Crazys69s Shop ❤❤
-I Donated $5000 to Crazys69s Shop
 I Feel Fine.
 I Will
 I'm always with
@@ -554,8 +554,6 @@ ICantToday♥
 IN RAINBOWS - Radiohead
 INNIT☻♥
 Ice
-Ireland
-Irish Steve
 Iron Bars
 Iron Boots
 Iron Chain
@@ -564,21 +562,17 @@ Iron Door
 Iron Helmet
 Iron Horse Armor
 Iron Leggings
-Israel
-Italy
+Iron Nugget
 ItsGigiii - FunkoPop™
 ItsaBumbleBee♥
 I♥Shopbo
-Jabba The Hutt
 Jack o'Lantern
-Japan
 JapaneseCity_1♥
 JapaneseCity_2♥
 JapaneseWoman♥
 Jinbei
 Jingle Jacket
 Jinx - FunkoPop™
-Joker
 Jolly Hood
 Jukebox
 Jungle Hanging Sign
@@ -590,9 +584,6 @@ Kermit the Frog -
 KillaFriend! (1 free life)
 King In Yellow
 King Slime
-King Steve
-Kingdom Greece
-Kingdom of Hungary
 Kingdome_Of_The_Fallen_.
 Kio_2♥
 Kitty
@@ -607,55 +598,42 @@ Koi_1♥
 Ladder
 Lady and The Tramp
 LancedmitriIV - FunkoPop™
+Lapis Lazuli Ore
 Large Amethyst Bud
 Lava Bucket
 Leaf Litter
 Lectern
 Legendary Lure
-Leia
 Light Blue
 Light Blue Banner
-Light Blue Bed
-Light Blue Carpet
+Light Blue Concrete
 Light Blue Concrete Powder
 Light Blue Dye
 Light Blue Glazed Terracotta
-Light Blue Shulker Box
 Light Blue Stained Glass
-Light Blue Stained Glass Pane
 Light Blue Terracotta
 Light Blue Wool
 Light Gray
 Light Gray Banner
-Light Gray Bed
-Light Gray Carpet
+Light Gray Concrete
 Light Gray Concrete Powder
 Light Gray Dye
 Light Gray Glazed Terracotta
-Light Gray Shulker Box
 Light Gray Stained Glass
-Light Gray Stained Glass Pane
 Light Gray Terracotta
 Light Gray Wool
 Lightning Rod
 Lilac
 Lily Pad
-Lily of the Valley
 Lime Banner
-Lime Bed
-Lime Carpet
+Lime Concrete
 Lime Dye
 Lime Glazed Terracotta
 Lime Green
-Lime Shulker Box
 Lime Stained Glass
-Lime Stained Glass Pane
 Lime Terracotta
 Lime Wool
 Lingering Potion
-Link
-Link (Zora Tunic)
-Lithuania
 Little Green Man - FunkoPop™
 Lizard
 Lodestone
@@ -666,7 +644,6 @@ Love Line
 Lover's Step
 Love♥
 Lucky Foot
-Luke Skywalker
 Lunar Leggings
 MARS (1)
 MERCURY (1)
@@ -674,21 +651,17 @@ MOON (1)
 Mads' Friendship Token ♥
 Magenta
 Magenta Banner
-Magenta Bed
 Magenta Bundle
-Magenta Carpet
+Magenta Concrete
 Magenta Concrete Powder
 Magenta Dye
 Magenta Glazed Terracotta
-Magenta Shulker Box
 Magenta Stained Glass
-Magenta Stained Glass Pane
 Magenta Terracotta
 Magenta Wool
 Magic Slime
 Magma Cube Spawn Egg
 Magma Cube Spawner
-Mandalorian
 Mangrove Planks
 Mangrove Shelf
 Map
@@ -704,11 +677,6 @@ Minecart
 Minecart with Chest
 Minecart with Hopper
 Miner LordRazen
-Mini Crewmate (brown)
-Mini Crewmate (cyan)
-Mini Crewmate (red)
-Mini Crewmate (white)
-Mini Crewmate (yellow)
 MiniBlobEggs
 MissLion1997 Donation <3
 Mister
@@ -718,14 +686,14 @@ Monkey D. Luffy (Gear 5)
 Moonroot
 Moonshadow Boots
 Mooshroom Spawner
-Moss Carpet
 Moss Chest
 Mossy Cobblestone Shulker
 Mossy Skeleton
 Mourner Pottery Sherd
+Mud Brick Stairs
+Mud Brick Wall
 Mud Bricks
 Muddy Mangrove Roots
-Mulan
 Mushroom Stew
 Mystery Magma Slime
 Mystery Slime
@@ -744,11 +712,11 @@ Nether Star
 Netherite Chestplate
 Netherite Ingot
 Netherite Scrap
+Netherite Sword
 Netherite Upgrade
 Nezuko1
 Nezuko2
 Nocturne Axe
-Norway
 Note Block
 Ntat's Guardian Shield
 Oak Button
@@ -759,10 +727,8 @@ Oak Shelf
 Oak Slab
 Oak Stairs
 Oak Trapdoor
-Obi-Wan Kenobi
 Obsidian Shulker
 Ochre Froglight Chest
-Official CasinoDak Regular Voucher ($10,000)
 Ominous Bottle
 Ominous Trial Key
 On Vacation 1
@@ -772,12 +738,11 @@ On Vaction 2
 Open Eyeblossom
 Orange
 Orange Banner
-Orange Bed
-Orange Carpet
+Orange Concrete
 Orange Dye
 Orange Glazed Terracotta
+Orange Shulker Box
 Orange Stained Glass
-Orange Stained Glass Pane
 Orange Terracotta
 Orange Tulip
 Orange Wool
@@ -788,7 +753,6 @@ Packed Mud
 Pain.
 Painting
 Pale Hanging Moss
-Pale Moss Block
 Pale Moss Carpet
 Pale Oak Planks
 Pale Oak Shelf
@@ -814,20 +778,16 @@ Petite Donor
 Pig Spawn Egg
 Pig Spawner
 Piglin Head
-Pilot Fox
 Pink
 Pink Axo♥
 Pink Banner
-Pink Bed
 Pink Candle
-Pink Carpet
+Pink Concrete
 Pink Concrete Powder
 Pink Dye
 Pink Glazed Terracotta
 Pink Petals
-Pink Shulker Box
 Pink Stained Glass
-Pink Stained Glass Pane
 Pink Terracotta
 Pink Tulip
 Pink Wool
@@ -839,7 +799,34 @@ Pitcher Pod
 Pixel✩Boys
 Player Head
 Player Spawner
+Plush A
+Plush B
+Plush C
+Plush D
 Plush Dollar
+Plush E
+Plush F
+Plush G
+Plush H
+Plush I
+Plush J
+Plush K
+Plush L
+Plush M
+Plush N
+Plush O
+Plush P
+Plush Q
+Plush R
+Plush S
+Plush T
+Plush U
+Plush V
+Plush W
+Plush X
+Plush Y
+Plush Z
+Pointed Dripstone
 Pokeball
 Polar Bear Spawn Egg
 Polar Bear Spawner
@@ -864,29 +851,26 @@ Powder Snow
 Powder Snow Bucket
 Premier Ball
 Pretty Things
-Princess Zelda
+Prismarine
 Prismarine Brick Chest
 Prismarine Brick Slab
 Prismarine Brick Stairs
+Prismarine Bricks
 Prismarine Crystals
 Prismarine Shard
 Prismarine Slab
 Prismarine Stairs
 Prismarine Wall
-Prismarine+ Valued Customer Token
 Pufferfish
+Pumpkin Munchkins
 Pumpkin Pie
 Purple
-Purple Banner
-Purple Bed
-Purple Carpet
+Purple Concrete
 Purple Concrete Powder
 Purple Dye
 Purple Glazed Terracotta
 Purple Night 🌠
-Purple Shulker Box
 Purple Stained Glass
-Purple Stained Glass Pane
 Purple Terracotta
 Purple Wool
 Purpur Block
@@ -897,7 +881,6 @@ Q's Super Duper Big Meat
 Quartz Bricks
 Quartz Pillar
 Queen Heels
-R2-D2
 RAIN!!!
 Rabbit (ochre froglight)
 Rabbit (pearlescent froglight)
@@ -906,7 +889,32 @@ Rabbit Spawn Egg
 Rabbit Spawner
 Rabbit Stew
 Rabbit's Foot
+Rainbow B
+Rainbow C
+Rainbow D
+Rainbow E
+Rainbow F
+Rainbow G
+Rainbow H
 Rainbow Heart
+Rainbow I
+Rainbow J
+Rainbow K
+Rainbow L
+Rainbow M
+Rainbow N
+Rainbow O
+Rainbow P
+Rainbow Q
+Rainbow R
+Rainbow S
+Rainbow T
+Rainbow U
+Rainbow V
+Rainbow W
+Rainbow X
+Rainbow Y
+Rainbow Z
 Rainy Axe
 Rainy Boomerang
 Rainy Bow
@@ -918,7 +926,6 @@ Rainy Jacket
 Rainy Pants
 Rainy Pick (Fortune)
 Rainy Pick (Silk Touch)
-Rainy Shoes
 Rainy Shovel (Fortune)
 Rainy Shovel (Silk Touch)
 Rainy Sword
@@ -931,28 +938,52 @@ Raw Salmon
 Reason
 Recovery Compass
 Red
-Red Banner
-Red Bed
+Red A
 Red Bundle
 Red Candle
-Red Carpet
 Red Concrete
+Red D
 Red Dye
 Red Fuzzy Curtain
 Red Glazed Terracotta
+Red I
+Red N
 Red Nether Bricks
-Red Shulker Box
 Red Stained Glass
-Red Stained Glass Pane
+Red T
+Red Terracotta
 Red Tulip
 Red Wool
+Red Y
 Red-Haired Shanks
 RedTho - FunkoPop™
 Redstone Block
+Redstone Block B
+Redstone Block C
+Redstone Block E
+Redstone Block F
+Redstone Block G
+Redstone Block H
+Redstone Block J
+Redstone Block K
+Redstone Block L
+Redstone Block M
+Redstone Block O
+Redstone Block P
+Redstone Block Q
+Redstone Block R
+Redstone Block S
+Redstone Block U
+Redstone Block V
+Redstone Block W
+Redstone Block X
+Redstone Block Z
 Redstone Comparator
 Redstone Lamp
 Redstone Lamp (on)
+Redstone Ore
 Redstone Repeater
+Redstone Torch
 Reinforced Deepslate
 Resin Block Chest
 Resin Brick
@@ -964,17 +995,39 @@ Roronoa Zoro
 Rose Bush
 Rotted Sandwich Monster
 Rubbing alcohol
-Russia
 Samurai_1♥
 Samurai_2♥
 Scarab Banner
-Scotland
 Scrape Pottery Sherd
 Scream
 Sculk Catalyst
 Sculk Sensor
+Sculk Sensor A
+Sculk Sensor C
+Sculk Sensor D
+Sculk Sensor E
+Sculk Sensor F
+Sculk Sensor G
+Sculk Sensor H
+Sculk Sensor I
+Sculk Sensor J
+Sculk Sensor K
+Sculk Sensor L
+Sculk Sensor M
+Sculk Sensor N
+Sculk Sensor Q
+Sculk Sensor R
+Sculk Sensor S
+Sculk Sensor T
+Sculk Sensor U
+Sculk Sensor V
+Sculk Sensor W
+Sculk Sensor X
+Sculk Sensor Y
+Sculk Sensor Z
 Sculk Shrieker
 Sea Lantern Chest
+Sea Pickle
 Seagrass
 Seal of  Approval ♥
 Seal of  Disapproval ♥
@@ -986,10 +1039,10 @@ Shears
 Sheep Spawner
 Shield
 Shiner
-Shogun
 Short Dry Grass
 Short Grass
 Shrimps
+Shulker Box
 Shulker Shell
 Silence Armor Trim
 Silverfish Spawner
@@ -997,8 +1050,8 @@ Sjalsfrid p.1
 Sjalsfrid p.2
 Sjalsfrid p.3
 Sjalsfrid p.4
-Skeleton Skull
 Skeleton Spawn Egg
+Skeleton Spawner
 Skull Pottery Sherd
 Slime
 Slime Spawn Egg
@@ -1006,10 +1059,11 @@ Small Amethyst Bud
 Small Dripleaf
 Smithing Table
 Smoker
-Smooth Basalt
 Smooth Quartz Block
 Smooth Red Sandstone
+SmoothGlider
 Snickerswhirr - FunkoPop™
+Sniffer Egg
 Sniffer Egg 🥚
 Sniffer Pet Voucher
 Sniffer Spawn Egg
@@ -1019,16 +1073,13 @@ Snow
 Snow Block
 Snow ˚ʚ♡ɞ˚
 Snowball
-Socialist Republic of Romania
 Someones
 Soul Campfire
 Soul Sand Creeper
 Soul Torch
 Soulsand
-South Korea
-Spain
 Spider Banner
-Spiderman
+Spider Spawner
 Spire Armor Trim
 Sponge
 Spore Blossom
@@ -1039,7 +1090,6 @@ Spruce Sign
 Spruce Stairs
 Spyglass
 Squid Spawner
-Steve
 Sticky Piston
 Sticky Piston (sideways)
 Stone Brick Slab
@@ -1049,7 +1099,6 @@ Stone Bricks Chest
 Stone Button
 Stone Slab
 Stone Stairs
-Stormtrooper
 Stray Spawn Egg
 Stray Spawner
 Stringy Worms
@@ -1066,13 +1115,10 @@ Sunny Pride 2025
 Sunny Rod
 Super Hoe
 Superman
-Sweden
 Sweetheart's Armor
 THE SUN (1)
 TNT
 Tall Dry Grass
-Technoblade
-Technoblade Plushie
 The Sleeping Mountain
 Thinking.
 Thus your fairy is made of most beautiful things.
@@ -1081,22 +1127,22 @@ Tigris
 Till_Death_And_Beyond_.
 Timmy of Friendship
 Tinker
-Tip Jar♥
 Tipped Arrow
 To Shine
 Tony Tony Chopper
-Toon Link
 Torch
 Torchflower
 Torchflower Seeds
 Totem of Undying
 Trapped Chest
-Treecuddler♥
-Treelover♥
 Trial Key
+Trident
 Tripwire Hook
 Tropical Fish
 Tropical Fish Spawner
+Tube Coral
+Tube Coral Block
+Tube Coral Fan
 Tuff Chest
 Turtle Egg
 Turtle Scute
@@ -1106,8 +1152,6 @@ Twin Flame Axe
 Twisting Vines
 Tԋҽ Hҽαɾƚ ιɳ Qυҽʂƚισɳ
 Ultra Ball
-United Kingdom
-United States of America
 Usopp
 VENUS (1)
 Valais
@@ -1118,7 +1162,6 @@ Vi - FunkoPop™
 Viper
 Volts Farm Banner
 Vote Crate Key
-Wales
 Ward Armor Trim
 Warped Fungus on a Stick
 Warped Planks
@@ -1128,8 +1171,6 @@ Water Bucket
 Waxed Block of Copper
 Waxed Chiseled Copper
 Waxed Copper Grate
-Waxed Cut Copper
-Waxed Exposed Copper Bulb
 Waxed Oxidized Copper
 Waxed Oxidized Copper Grate
 Waxed Oxidized Cut Copper
@@ -1139,21 +1180,44 @@ Wayfinder Armor Trim
 Welcome to Jurrasic Park
 Wheat
 White
+White A
+White B
 White Banner
 White Bed
-White Carpet
+White C
+White D
 White Dye
+White E
+White F
+White G
 White Glazed Terracotta
-White Shulker Box
-White Stained Glass Pane
+White H
+White I
+White J
+White K
+White L
+White M
+White N
+White O
+White P
+White Q
+White R
+White Stained Glass
+White T
 White Terracotta
 White Tulip
+White U
+White V
+White W
 White Wool Chest
+White X
+White Y
 Wild Armor Trim
 Wildflowers
 Will
 Witch Spawn Egg
 Witch Spawner
+Wither
 Wither Rose
 Wither Skeleton Skull
 Wither Skeleton Spawn Egg
@@ -1167,20 +1231,18 @@ Wⁱⁿᵍᵉᵈₕₑₐᵣₜ ♥
 Yamato
 Yellow
 Yellow Banner
-Yellow Bed
 Yellow Bundle
-Yellow Carpet
+Yellow Concrete
 Yellow Dye
 Yellow Glazed Terracotta
-Yellow Shulker Box
 Yellow Stained Glass
-Yellow Stained Glass Pane
 Yellow Terracotta
 Yellow Wool
 You Are
 You create your own Hell
 Your
 Zoglin Spawner
+Zombie Spawner
 Zombified Piglin Spawn Egg
 Zoototoro
 [/warp Mapart]
@@ -1213,7 +1275,6 @@ superhero stitch (1)
 superhero stitch (2)
 superhero stitch (4)
 tales of the sea...
-theres a farm for these so lower the buy price fr
 uǝʞɔıɥƆ
 you, ⋆ೃSis࿔*
 °❀⋆ 𝐋𝐮𝐜𝐢 ⋆❀°

@@ -14,7 +14,7 @@ import argparse
 
 from data_loader import load_shop_data, load_ignore_list
 
-DEFAULT_INPUT_FILE = "shop_data.csv"
+DEFAULT_INPUT_FILE = r"C:\Users\nucle\AppData\Roaming\PrismLauncher\instances\1.21.6\minecraft\config\sunnyMod\shop_data.csv"
 IGNORE_SELF_FLIP_ITEMS_FILE = "ignore_self_flip_items.txt"
 OUTPUT_CSV = "self_flip_opportunities.csv"
 OUTPUT_TXT = "self_flip_opportunities.txt"
