@@ -207,7 +207,8 @@ def main():
             f"{i+1}. '{row['Item']}' x{row['Quantity']}: buy @ ${row['Sell_Price']:.2f} from "
             f"'{row['Seller']}' ({row['Seller_Warp']}) → sell @ ${row['Buy_Price']:.2f} to "
             f"'{row['Buyer']}' ({row['Buyer_Warp']})\n"
-            f"    Capital required: ${row['Buy_Total']:.2f}  |  Total profit: ${row['Total_Profit']:.2f}"
+            f"    Capital required: ${row['Buy_Total']:.2f}  |  Total profit: ${row['Total_Profit']:.2f}\n"
+            f"    Listed: seller {row['Seller_Timestamp']}  |  buyer {row['Buyer_Timestamp']}"
         )
     with open(OUTPUT_TOP_TRADES, "w", encoding="utf-8") as f:
         f.write("\n".join(top_lines))
@@ -232,6 +233,7 @@ def main():
             f"   then sell {row['Quantity']} '{row['Item']}' at ${row['Buy_Price']:.2f} each "
             f"(total: ${row['Sell_Total']:.2f}) at '{row['Buyer']}' ({row['Buyer_Warp']})\n"
             f"   → Profit: ${row['Profit_Per_Item']:.2f} per item | Total profit: ${row['Total_Profit']:.2f}\n"
+            f"   Listed: seller {row['Seller_Timestamp']}  |  buyer {row['Buyer_Timestamp']}\n"
         )
         lines.append(text)
         lines.append("-" * 80)

@@ -15,6 +15,7 @@ Bee Nest
 Birch Leaves
 Birch Log
 Birch Sapling
+Black Concrete
 Blackstone
 Blaze Rod
 Block of Bamboo
@@ -25,12 +26,14 @@ Block of Iron
 Block of Quartz
 Block of Raw Iron
 Block of Redstone
+Blue Concrete
 Blue Ice
 Bone
 Bone Block
 Bone Meal
 Book
 Breeze Rod
+Brown Concrete
 Brown Mushroom
 Brown Mushroom Block
 Bucket
@@ -50,6 +53,9 @@ Cobblestone
 Cobweb
 Cocoa Beans
 Composter
+Cooked Chicken
+Cooked Mutton
+Cooked Porkchop
 Copper Ingot
 Copper Ore
 Cornflower
@@ -67,6 +73,7 @@ Deepslate Copper Ore
 Deepslate Diamond Ore
 Deepslate Iron Ore
 Deepslate Lapis Lazuli Ore
+Deepslate Redstone Ore
 Diamond
 Diorite
 Dirt
@@ -80,7 +87,9 @@ Ender Pearl
 Feather
 Fermented Spider Eye
 Firework Rocket
+Flint
 Flowering Azalea
+Ghast Tear
 Gilded Blackstone
 Glass
 Glow Ink Sac
@@ -90,6 +99,8 @@ Gold Ingot
 Granite
 Grass Block
 Gravel
+Gray Concrete
+Green Concrete
 Gunpowder
 Honey Block
 Ink Sac
@@ -105,8 +116,12 @@ Lapis Lazuli
 Lead
 Leather
 Lever
+Light Blue Concrete
+Light Gray Concrete
 Lily of the Valley
+Lime Concrete
 Lime Concrete Powder
+Magenta Concrete
 Magma Block
 Magma Cream
 Mangrove Leaves
@@ -134,6 +149,7 @@ Oak Sapling
 Observer
 Obsidian
 Ochre Froglight
+Orange Concrete
 Orange Concrete Powder
 Packed Ice
 Pale Moss Block
@@ -143,12 +159,15 @@ Pale Oak Sapling
 Paper
 Pearlescent Froglight
 Phantom Membrane
+Pink Concrete
 Podzol
 Polished Blackstone Bricks
 Potato
 Powered Rail
+Prismarine Shard
 Pumpkin
 Pumpkin Seeds
+Purple Concrete
 Rabbit Hide
 Rail
 Raw Beef
@@ -159,9 +178,12 @@ Raw Gold
 Raw Iron
 Raw Porkchop
 Raw Rabbit
+Red Concrete
 Red Concrete Powder
+Red Dye
 Red Mushroom
 Red Mushroom Block
+Red Nether Bricks
 Red Sand
 Red Sandstone
 Redstone Dust
@@ -178,7 +200,6 @@ Shroomlight
 Slime Block
 Slimeball
 Smooth Basalt
-Smooth Sandstone
 Smooth Stone
 Soul Lantern
 Soul Sand
@@ -190,7 +211,6 @@ Spruce Leaves
 Spruce Log
 Spruce Sapling
 Steak
-Stick
 Stone
 Stonecutter
 String
@@ -219,9 +239,11 @@ Warped Wart Block
 Waxed Copper Bulb
 Waxed Oxidized Copper Bulb
 Weeping Vines
+Wheat
 Wheat Seeds
 White Concrete
 White Concrete Powder
 White Wool
 Wind Charge
+Yellow Concrete
 Yellow Concrete Powder

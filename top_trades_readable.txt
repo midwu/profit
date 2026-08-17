@@ -1,63 +1,93 @@
-Top 30 Trades (of 813 total opportunities)
+Top 30 Trades (of 902 total opportunities)
 ================================================================================
 
 1. 'Nether Wart Block' x3451: buy @ $2.00 from 'celticpiping' (/warp celt) → sell @ $5.00 to 'Effortles' (/warp sale)
     Capital required: $6902.00  |  Total profit: $10353.00
-2. 'Gravel' x3068: buy @ $1.00 from 'Hobosapian' (/warp shopbo) → sell @ $4.00 to 'Allyri' (/warp ri)
-    Capital required: $3068.00  |  Total profit: $9204.00
-3. 'Gravel' x3021: buy @ $1.00 from 'celticpiping' (/warp celt) → sell @ $4.00 to 'Allyri' (/warp ri)
-    Capital required: $3021.00  |  Total profit: $9063.00
-4. 'Shroomlight' x489: buy @ $10.00 from 'MatsmitGlatz' (/warp blockmart) → sell @ $25.00 to 'SerSicerio' (/warp serstore)
+    Listed: seller 2026-08-08 11:45:48  |  buyer 2026-05-29 11:30:28
+2. 'Ghast Tear' x4: buy @ $2500.00 from 'Harmony_Gold_' (/warp wood shop) → sell @ $5000.00 to 'FX_02' (/warp 1)
+    Capital required: $10000.00  |  Total profit: $10000.00
+    Listed: seller 2026-05-29 12:43:07  |  buyer 2026-08-16 14:41:14
+3. 'Shroomlight' x489: buy @ $10.00 from 'MatsmitGlatz' (/warp blockmart) → sell @ $25.00 to 'SerSicerio' (/warp serstore)
     Capital required: $4890.00  |  Total profit: $7335.00
+    Listed: seller 2026-08-08 11:38:45  |  buyer 2026-08-08 11:39:09
+4. 'Book' x991: buy @ $3.00 from 'Dwarffles' (/warp lidl) → sell @ $10.00 to 'Effortles' (/warp sale)
+    Capital required: $2973.00  |  Total profit: $6937.00
+    Listed: seller 2026-05-29 00:41:59  |  buyer 2026-07-05 11:21:12
 5. 'Book' x991: buy @ $3.00 from 'Dwarffles' (/warp lidl) → sell @ $10.00 to 'Effortles' (/warp sale)
     Capital required: $2973.00  |  Total profit: $6937.00
-6. 'Book' x991: buy @ $3.00 from 'Dwarffles' (/warp lidl) → sell @ $10.00 to 'Effortles' (/warp sale)
-    Capital required: $2973.00  |  Total profit: $6937.00
+    Listed: seller 2026-07-05 11:20:48  |  buyer 2026-07-05 11:21:12
+6. 'Nether Bricks' x3456: buy @ $1.00 from 'Soup__booty' (/warp soupshop) → sell @ $3.00 to 'SerSicerio' (/warp serstore)
+    Capital required: $3456.00  |  Total profit: $6912.00
+    Listed: seller 2026-05-29 11:49:58  |  buyer 2026-08-07 08:18:00
 7. 'Iron Ingot' x1728: buy @ $1.00 from 'Chijoku' (/warp chi) → sell @ $5.00 to '_RyanMC' (/warp villager trading hall)
     Capital required: $1728.00  |  Total profit: $6912.00
-8. 'Nether Bricks' x3456: buy @ $1.00 from 'Soup__booty' (/warp soupshop) → sell @ $3.00 to 'SerSicerio' (/warp serstore)
-    Capital required: $3456.00  |  Total profit: $6912.00
-9. 'Acacia Log' x1728: buy @ $4.00 from 'Hobosapian' (/warp shopbo) → sell @ $8.00 to 'Effortles' (/warp sale)
+    Listed: seller 2026-05-29 00:03:49  |  buyer 2026-05-29 12:31:17
+8. 'Acacia Log' x1728: buy @ $4.00 from 'Hobosapian' (/warp shopbo) → sell @ $8.00 to 'Effortles' (/warp sale)
     Capital required: $6912.00  |  Total profit: $6912.00
-10. 'Gravel' x3415: buy @ $2.00 from 'MatsmitGlatz' (/warp blockmart) → sell @ $4.00 to 'Allyri' (/warp ri)
-    Capital required: $6830.00  |  Total profit: $6830.00
+    Listed: seller 2026-07-08 23:45:10  |  buyer 2026-05-29 11:28:52
+9. 'Deepslate' x3328: buy @ $1.00 from 'celticpiping' (/warp celt) → sell @ $3.00 to 'SerSicerio' (/warp serstore)
+    Capital required: $3328.00  |  Total profit: $6656.00
+    Listed: seller 2026-08-08 11:48:54  |  buyer 2026-08-07 08:17:39
+10. 'Deepslate' x3300: buy @ $1.00 from 'celticpiping' (/warp celt) → sell @ $3.00 to 'SerSicerio' (/warp serstore)
+    Capital required: $3300.00  |  Total profit: $6600.00
+    Listed: seller 2026-08-08 11:48:50  |  buyer 2026-06-06 10:44:20
 11. 'Coal' x2042: buy @ $1.00 from 'SerSicerio' (/warp serstore) → sell @ $4.20 to 'Effortles' (/warp sale)
     Capital required: $2042.00  |  Total profit: $6534.40
+    Listed: seller 2026-08-07 08:18:11  |  buyer 2026-08-01 22:30:00
 12. 'Brown Mushroom Block' x3212: buy @ $3.00 from 'Hobosapian' (/warp shopbo) → sell @ $5.00 to 'Effortles' (/warp sale)
     Capital required: $9636.00  |  Total profit: $6424.00
-13. 'Jungle Log' x3180: buy @ $4.00 from 'AKoopa' (/warp koopa) → sell @ $6.00 to 'Effortles' (/warp sale)
-    Capital required: $12720.00  |  Total profit: $6360.00
+    Listed: seller 2026-07-08 23:45:57  |  buyer 2026-05-29 11:30:38
+13. 'Gravel' x2100: buy @ $1.00 from 'Hobosapian' (/warp shopbo) → sell @ $4.00 to 'Allyri' (/warp ri)
+    Capital required: $2100.00  |  Total profit: $6300.00
+    Listed: seller 2026-07-08 23:45:22  |  buyer 2026-05-29 11:18:22
 14. 'Iron Ingot' x2081: buy @ $1.20 from 'Soup__booty' (/warp soupshop) → sell @ $4.00 to 'Crazy69' (/warp crazysshop)
     Capital required: $2497.20  |  Total profit: $5826.80
+    Listed: seller 2026-05-29 11:48:14  |  buyer 2026-08-07 08:27:31
 15. 'Oak Log' x1405: buy @ $1.00 from 'midwu' (/warp panda) → sell @ $5.00 to 'FX_02' (/warp 1)
     Capital required: $1405.00  |  Total profit: $5620.00
+    Listed: seller 2026-08-07 08:13:53  |  buyer 2026-05-26 23:57:53
 16. 'Lapis Lazuli' x1691: buy @ $3.00 from 'Hobosapian' (/warp shopbo) → sell @ $6.30 to 'Effortles' (/warp sale)
     Capital required: $5073.00  |  Total profit: $5580.30
-17. 'Deepslate' x2612: buy @ $1.00 from 'celticpiping' (/warp celt) → sell @ $3.00 to 'SerSicerio' (/warp serstore)
-    Capital required: $2612.00  |  Total profit: $5224.00
-18. 'Acacia Log' x1277: buy @ $4.00 from 'midwu' (/warp panda) → sell @ $8.00 to 'Effortles' (/warp sale)
-    Capital required: $5108.00  |  Total profit: $5108.00
-19. 'Dripstone Block' x3351: buy @ $2.50 from 'nathan812' (/warp rockets) → sell @ $4.00 to 'Effortles' (/warp sale)
-    Capital required: $8377.50  |  Total profit: $5026.50
-20. 'Iron Ingot' x1242: buy @ $1.00 from 'Chijoku' (/warp chi) → sell @ $5.00 to 'Effortles' (/warp sale)
+    Listed: seller 2026-08-08 11:16:12  |  buyer 2026-05-29 11:26:44
+17. 'Block of Bamboo' x3456: buy @ $1.00 from 'Dwarffles' (/warp lidl) → sell @ $2.50 to 'Allyri' (/warp ri)
+    Capital required: $3456.00  |  Total profit: $5184.00
+    Listed: seller 2026-05-29 00:41:57  |  buyer 2026-05-29 11:23:01
+18. 'Gravel' x1665: buy @ $1.00 from 'celticpiping' (/warp celt) → sell @ $4.00 to 'Allyri' (/warp ri)
+    Capital required: $1665.00  |  Total profit: $4995.00
+    Listed: seller 2026-08-08 11:39:57  |  buyer 2026-05-29 11:18:20
+19. 'Iron Ingot' x1242: buy @ $1.00 from 'Chijoku' (/warp chi) → sell @ $5.00 to 'Effortles' (/warp sale)
     Capital required: $1242.00  |  Total profit: $4968.00
-21. 'Magma Block' x2481: buy @ $3.00 from 'celticpiping' (/warp celt) → sell @ $5.00 to 'SpaghettiPasta' (/warp one)
-    Capital required: $7443.00  |  Total profit: $4962.00
-22. 'Verdant Froglight' x3456: buy @ $0.15 from 'Hobosapian' (/warp shopbo) → sell @ $1.58 to 'Allyri' (/warp ri)
+    Listed: seller 2026-05-29 00:03:49  |  buyer 2026-05-29 11:26:46
+20. 'Verdant Froglight' x3456: buy @ $0.15 from 'Hobosapian' (/warp shopbo) → sell @ $1.58 to 'Allyri' (/warp ri)
     Capital required: $518.40  |  Total profit: $4942.08
-23. 'Block of Bamboo' x3227: buy @ $1.00 from 'Dwarffles' (/warp lidl) → sell @ $2.50 to 'Allyri' (/warp ri)
-    Capital required: $3227.00  |  Total profit: $4840.50
-24. 'Ochre Froglight' x3328: buy @ $0.15 from 'Hobosapian' (/warp shopbo) → sell @ $1.58 to 'Allyri' (/warp ri)
-    Capital required: $499.20  |  Total profit: $4759.04
-25. 'Cobbled Deepslate' x2346: buy @ $1.00 from 'celticpiping' (/warp celt) → sell @ $3.00 to 'SerSicerio' (/warp serstore)
+    Listed: seller 2026-08-08 11:15:53  |  buyer 2026-05-29 11:21:50
+21. 'Ochre Froglight' x3456: buy @ $0.15 from 'Hobosapian' (/warp shopbo) → sell @ $1.58 to 'Allyri' (/warp ri)
+    Capital required: $518.40  |  Total profit: $4942.08
+    Listed: seller 2026-08-08 11:15:54  |  buyer 2026-05-29 11:21:50
+22. 'Cobbled Deepslate' x2346: buy @ $1.00 from 'celticpiping' (/warp celt) → sell @ $3.00 to 'SerSicerio' (/warp serstore)
     Capital required: $2346.00  |  Total profit: $4692.00
-26. 'Basalt' x1862: buy @ $2.50 from 'Soup__booty' (/warp soupshop) → sell @ $5.00 to 'saltzi' (/warp villager trading hall)
-    Capital required: $4655.00  |  Total profit: $4655.00
-27. 'Mangrove Log' x614: buy @ $5.00 from 'MatsmitGlatz' (/warp blockmart) → sell @ $12.50 to 'FX_02' (/warp 1)
+    Listed: seller 2026-08-08 11:49:05  |  buyer 2026-08-07 08:17:38
+23. 'Magma Block' x2320: buy @ $3.00 from 'celticpiping' (/warp celt) → sell @ $5.00 to 'FX_02' (/warp 1)
+    Capital required: $6960.00  |  Total profit: $4640.00
+    Listed: seller 2026-08-08 11:45:34  |  buyer 2026-05-26 23:52:10
+24. 'Block of Bamboo' x3085: buy @ $1.00 from 'Dwarffles' (/warp lidl) → sell @ $2.50 to 'Allyri' (/warp ri)
+    Capital required: $3085.00  |  Total profit: $4627.50
+    Listed: seller 2026-05-29 00:41:57  |  buyer 2026-05-29 11:23:01
+25. 'Mangrove Log' x614: buy @ $5.00 from 'MatsmitGlatz' (/warp blockmart) → sell @ $12.50 to 'FX_02' (/warp 1)
     Capital required: $3070.00  |  Total profit: $4605.00
-28. 'Raw Copper' x3455: buy @ $5.00 from 'will1608' (/warp shopwill) → sell @ $6.30 to 'Effortles' (/warp sale)
-    Capital required: $17275.00  |  Total profit: $4491.50
-29. 'Birch Log' x2239: buy @ $4.00 from 'AKoopa' (/warp koopa) → sell @ $6.00 to 'Effortles' (/warp sale)
+    Listed: seller 2026-08-08 11:30:56  |  buyer 2026-05-26 23:58:02
+26. 'Raw Copper' x3456: buy @ $5.00 from 'will1608' (/warp shopwill) → sell @ $6.30 to 'Effortles' (/warp sale)
+    Capital required: $17280.00  |  Total profit: $4492.80
+    Listed: seller 2026-05-29 11:42:31  |  buyer 2026-05-29 11:29:25
+27. 'Birch Log' x2239: buy @ $4.00 from 'AKoopa' (/warp koopa) → sell @ $6.00 to 'Effortles' (/warp sale)
     Capital required: $8956.00  |  Total profit: $4478.00
-30. 'Mud' x981: buy @ $3.00 from 'MatsmitGlatz' (/warp blockmart) → sell @ $7.50 to 'FX_02' (/warp 1)
+    Listed: seller 2026-05-30 10:27:24  |  buyer 2026-05-29 11:28:53
+28. 'Mud' x981: buy @ $3.00 from 'MatsmitGlatz' (/warp blockmart) → sell @ $7.50 to 'FX_02' (/warp 1)
     Capital required: $2943.00  |  Total profit: $4414.50
+    Listed: seller 2026-08-08 11:30:26  |  buyer 2026-05-26 23:59:08
+29. 'Block of Raw Iron' x2207: buy @ $75.00 from 'AKoopa' (/warp koopa) → sell @ $77.00 to 'Dwarffles' (/warp bulk sell)
+    Capital required: $165525.00  |  Total profit: $4414.00
+    Listed: seller 2026-05-30 10:31:49  |  buyer 2026-08-08 11:14:08
+30. 'Pearlescent Froglight' x3014: buy @ $0.15 from 'Hobosapian' (/warp shopbo) → sell @ $1.58 to 'Allyri' (/warp ri)
+    Capital required: $452.10  |  Total profit: $4310.02
+    Listed: seller 2026-08-08 11:15:54  |  buyer 2026-05-29 11:21:44

@@ -2,3 +2,5 @@
 /warp maddy's mega mall
 /warp dak
 /home rismarine
+/warp prismarine+
+/home jungle
